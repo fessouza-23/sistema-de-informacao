@@ -1,0 +1,784 @@
+Universidade,Mesorregião,Município,Curso,Categoria
+Unesp,Ribeirão Preto ,Jaboticabal,Administração,Humanas
+Unesp,Marília,Tupã,Administração,Humanas
+USP,Ribeirão Preto,Ribeirão Preto,Administração,Humanas
+USP,Piracicaba,Piracicaba,Administração,Humanas
+UFSCar,Itapetininga,Buri,Administração,Humanas
+UFSCar,Macro Metropolitana Paulista,Sorocaba,Administração,Humanas
+UNITAU,Vale do Paraíba Paulista,Taubaté,Administração,Humanas
+USCS,Metropolitana de São Paulo,São Caetano do Sul,Administração,Humanas
+PUC-SP,Metropolitana de São Paulo,São Paulo,Administração,Humanas
+PUC-SP,Campinas,Campinas,Administração,Humanas
+ESPM,Metropolitana de São Paulo,São Paulo,Administração,Humanas
+Insper,Metropolitana de São Paulo,São Paulo,Administração,Humanas
+Unifesp,Metropolitana de São Paulo,Osasco,Administração,Humanas
+Unifesp,Metropolitana de São Paulo,Osasco,Administração,Humanas
+PUC-SP,Campinas,Campinas,Administração,Humanas
+Unicamp,Piracicaba,Limeira,Administração,Humanas
+PUC-SP,Campinas,Campinas,Administração – Finanças Corporativas e Mercade de Capitais,Humanas
+PUC-SP,Campinas,Campinas,Administração – Marketing e Inovação,Humanas
+FGV,Metropolitana de São Paulo,São Paulo,Administração de Empresas,Humanas
+USP,Metropolitana de São Paulo,São Paulo,Administração de Empresas,Humanas
+FGV,Metropolitana de São Paulo,São Paulo,Administração Pública,Humanas
+Unesp,Araraquara,Araraquara,Administração Pública,Humanas
+USP,Metropolitana de São Paulo,São Paulo,Administração Pública,Humanas
+Unicamp,Piracicaba,Limeira,Administração Pública,Humanas
+UFSCar,Piracicaba,Araras,Agroecologia,Biológicas
+UNITAU,Vale do Paraíba Paulista,Taubaté,Agronomia,Biológicas
+UNITAU,Vale do Paraíba Paulista,Taubaté,Análise e Desenvolvimento de Sistemas,Exatas
+USCS,Metropolitana de São Paulo,São Caetano do Sul,Análise e Desenvolvimento de Sistemas,Exatas
+USCS,Metropolitana de São Paulo,São Paulo,Análise e Desenvolvimento de Sistemas,Exatas
+Unicamp,Piracicaba,Limeira,Análise e Desenvolvimento de Sistemas,Exatas
+Unesp,Bauru,Bauru,Arquitetura e Urbanismo,Humanas
+Unesp,Presidente Prudente,Presidente Prudente,Arquitetura e Urbanismo,Humanas
+USP,Araraquara,São Carlos,Arquitetura e Urbanismo,Humanas
+UNITAU,Vale do Paraíba Paulista,Taubaté,Arquitetura e Urbanismo,Humanas
+USCS,Metropolitana de São Paulo,São Caetano do Sul,Arquitetura e Urbanismo,Humanas
+PUC-SP,Campinas,Campinas,Arquitetura e Urbanismo,Humanas
+USP,Metropolitana de São Paulo,São Paulo,Arquitetura e Urbanismo,Humanas
+Unicamp,Campinas,Campinas,Arquitetura e Urbanismo,Humanas
+Unesp,Marília,Marília,Arquivologia,Humanas
+PUC-SP,Metropolitana de São Paulo,São Paulo,"Arte: História, Crítica e Curadoria",Humanas
+USP,Metropolitana de São Paulo,São Paulo,Artes Cênicas,Humanas
+Unesp,Metropolitana de São Paulo,São Paulo,Artes Cênicas,Humanas
+Unicamp,Campinas,Campinas,Artes Cênicas,Humanas
+Unesp,Bauru,Bauru,Artes Visuais,Humanas
+Unesp,Metropolitana de São Paulo,São Paulo,Artes Visuais,Humanas
+USP,Metropolitana de São Paulo,São Paulo,Artes Visuais,Humanas
+PUC-SP,Campinas,Campinas,Artes Visuais,Humanas
+PUC-SP,Campinas,Campinas,Artes Visuais,Humanas
+Unicamp,Campinas,Campinas,Artes Visuais,Humanas
+USP,Metropolitana de São Paulo,São Paulo,Astronomia,Exatas
+USP,Metropolitana de São Paulo,São Paulo,Audiovisual,Humanas
+USCS,Metropolitana de São Paulo,São Caetano do Sul,Banco de Dados,Exatas
+Unesp,Marília,Marília,Biblioteconomia,Humanas
+USP,Metropolitana de São Paulo,São Paulo,Biblioteconomia,Humanas
+PUC-SP,Campinas,Campinas,Biblioteconomia,Humanas
+USP,Ribeirão Preto,Ribeirão Preto,Biblioteconomia e Ciência da Informação,Humanas
+UFSCar,Araraquara,São Carlos,Biblioteconomia e Ciência da Informação,Humanas
+UNITAU,Vale do Paraíba Paulista,Taubaté,Biomedicina,Saúde
+USCS,Metropolitana de São Paulo,São Caetano do Sul,Biomedicina,Saúde
+PUC-SP,Campinas,Campinas,Biomedicina,Saúde
+Unifesp,Metropolitana de São Paulo,São Paulo,Biomedicina,Saúde
+USP,Araraquara,São Carlos,Biomoleculares,Biológicas
+USP-Leste,Metropolitana de São Paulo,São Paulo,Biotecnologia,Biológicas
+UFSCar,Piracicaba,Araras,Biotecnologia,Biológicas
+UFSCar,Araraquara,São Carlos,Biotecnologia,Biológicas
+UFABC,Metropolitana de São Paulo,Santo André,Biotecnologia,Biológicas
+Unifesp,Vale do Paraíba Paulista,São José dos Campos,Biotecnologia,Biológicas
+PUC-SP,Campinas,Campinas,Cibersegurança,Exatas
+USCS,Metropolitana de São Paulo,São Caetano do Sul,Cibersegurança,Exatas
+Unesp,Bauru,Bauru,Ciência da Computação,Exatas
+Unesp,Presidente Prudente,Presidente Prudente,Ciência da Computação,Exatas
+Unesp,São José do Rio Preto,São José do Rio Preto,Ciência da Computação,Exatas
+UFSCar,Araraquara,São Carlos,Ciência da Computação,Exatas
+UFSCar,Macro Metropolitana Paulista,Sorocaba,Ciência da Computação,Exatas
+UFABC,Metropolitana de São Paulo,Santo André,Ciência da Computação,Exatas
+USCS,Metropolitana de São Paulo,São Caetano do Sul,Ciência da Computação,Exatas
+PUC-SP,Metropolitana de São Paulo,São Paulo,Ciência da Computação,Exatas
+Insper,Metropolitana de São Paulo,São Paulo,Ciência da Computação,Exatas
+Unifesp,Vale do Paraíba Paulista,São José dos Campos,Ciência da Computação,Exatas
+Unicamp,Campinas,Campinas,Ciência da Computação,Exatas
+USP,Araraquara,São Carlos,Ciência de Computação,Exatas
+USP,Araraquara,São Carlos,Ciência de Dados,Exatas
+PUC-SP,Metropolitana de São Paulo,São Paulo,Ciência de Dados e Inteligência Artificial,Exatas
+PUC-SP,Campinas,Campinas,Ciência de Dados e Inteligência Artificial,Exatas
+ESPM,Metropolitana de São Paulo,São Paulo,Ciência de Dados e Negócios,Exatas
+ESPM,Metropolitana de São Paulo,São Paulo,Ciência do Consumo,Exatas
+Unifesp,Metropolitana de São Paulo,Diadema,Ciências,Biológicas
+Unifesp,Metropolitana de São Paulo,Diadema,Ciências,Biológicas
+Unifesp,Metropolitana de São Paulo,Diadema,Ciências Ambientais,Biológicas
+USP,Metropolitana de São Paulo,São Paulo,Ciências Atuariais,Exatas
+PUC-SP,Metropolitana de São Paulo,São Paulo,Ciências Atuariais,Humanas
+Unifesp,Metropolitana de São Paulo,Osasco,Ciências Atuariais,Exatas
+Unifesp,Metropolitana de São Paulo,Osasco,Ciências Atuariais,Exatas
+USP,Ribeirão Preto,Ribeirão Preto,Ciências Biológicas,Biológicas
+Unesp,Assis,Assis,Ciências Biológicas,Biológicas
+Unesp,Bauru,Bauru,Ciências Biológicas,Biológicas
+Unesp,Bauru,Botucatu,Ciências Biológicas,Biológicas
+Unesp,Araçatuba,Ilha Solteira,Ciências Biológicas,Biológicas
+Unesp,Ribeirão Preto ,Jaboticabal,Ciências Biológicas,Biológicas
+Unesp,Piracicaba,Rio Claro,Ciências Biológicas,Biológicas
+Unesp,São José do Rio Preto,São José do Rio Preto,Ciências Biológicas,Biológicas
+USP,Metropolitana de São Paulo,São Paulo,Ciências Biológicas,Biológicas
+USP,Piracicaba,Piracicaba,Ciências Biológicas,Biológicas
+UFSCar,Piracicaba,Araras,Ciências Biológicas,Biológicas
+UFSCar,Itapetininga,Buri,Ciências Biológicas,Biológicas
+UFSCar,Araraquara,São Carlos,Ciências Biológicas,Biológicas
+UFSCar,Macro Metropolitana Paulista,Sorocaba,Ciências Biológicas,Biológicas
+UFABC,Metropolitana de São Paulo,Santo André,Ciências Biológicas,Biológicas
+UFABC,Metropolitana de São Paulo,Santo André,Ciências Biológicas,Biológicas
+UNITAU,Vale do Paraíba Paulista,Taubaté,Ciências Biológicas,Biológicas
+USCS,Metropolitana de São Paulo,São Caetano do Sul,Ciências Biológicas,Biológicas
+PUC-SP,Macro Metropolitana Paulista,Sorocaba,Ciências Biológicas,Biológicas
+PUC-SP,Campinas,Campinas,Ciências Biológicas,Biológicas
+Unifesp,Metropolitana de São Paulo,Diadema,Ciências Biológicas,Biológicas
+Unesp,Metropolitana de São Paulo,São Vicente,Ciências Biológicas,Biológicas
+Unesp,Metropolitana de São Paulo,São Vicente,Ciências Biológicas,Biológicas
+Unicamp,Campinas,Campinas,Ciências Biológicas,Biológicas
+Unicamp,Campinas,Campinas,Ciências Biológicas,Biológicas
+PUC-SP,Campinas,Campinas,Ciências Biológicas – Licenciatura,Biológicas
+Unesp,Marília,Marília,Ciências Biológicas e da Saúde,Biológicas
+Unesp,Bauru,Botucatu,Ciências Biomédicas,Saúde
+USP,Metropolitana de São Paulo,São Paulo,Ciências Biomédicas,Saúde
+USP,Ribeirão Preto,Ribeirão Preto,Ciências Biomédicas,Saúde
+USP,Metropolitana de São Paulo,São Paulo,Ciências Contábeis,Humanas
+USP,Ribeirão Preto,Ribeirão Preto,Ciências Contábeis,Humanas
+UNITAU,Vale do Paraíba Paulista,Taubaté,Ciências Contábeis,Humanas
+USCS,Metropolitana de São Paulo,São Caetano do Sul,Ciências Contábeis,Humanas
+PUC-SP,Metropolitana de São Paulo,São Paulo,Ciências Contábeis,Humanas
+PUC-SP,Campinas,Campinas,Ciências Contábeis,Humanas
+Unifesp,Metropolitana de São Paulo,Osasco,Ciências Contábeis,Humanas
+Unifesp,Metropolitana de São Paulo,Osasco,Ciências Contábeis,Humanas
+USCS,Metropolitana de São Paulo,São Caetano do Sul,Ciências Contábeis,Humanas
+USP,Metropolitana de São Paulo,São Paulo,Ciências da Computação,Exatas
+USP,Ribeirão Preto,Ribeirão Preto,Ciências da Computação,Exatas
+Unesp,Piracicaba,Rio Claro,Ciências da Computação,Exatas
+USP-Leste,Metropolitana de São Paulo,São Paulo,Ciências da Natureza,Exatas
+Unicamp,Piracicaba,Limeira,Ciências do Esporte,Biológicas
+USP,Piracicaba,Piracicaba,Ciências dos Alimentos,Biológicas
+Unesp,Araraquara,Araraquara,Ciências Econômicas,Humanas
+USP,Metropolitana de São Paulo,São Paulo,Ciências Econômicas,Humanas
+USP,Ribeirão Preto,Ribeirão Preto,Ciências Econômicas,Humanas
+USP,Piracicaba,Piracicaba,Ciências Econômicas,Humanas
+UFSCar,Macro Metropolitana Paulista,Sorocaba,Ciências Econômicas,Humanas
+UFABC,Metropolitana de São Paulo,São Bernardo do Campo,Ciências Econômicas,Humanas
+UNITAU,Vale do Paraíba Paulista,Taubaté,Ciências Econômicas,Humanas
+USCS,Metropolitana de São Paulo,São Caetano do Sul,Ciências Econômicas,Humanas
+PUC-SP,Metropolitana de São Paulo,São Paulo,Ciências Econômicas,Humanas
+PUC-SP,Campinas,Campinas,Ciências Econômicas,Humanas
+Unifesp,Metropolitana de São Paulo,Osasco,Ciências Econômicas,Humanas
+Unifesp,Metropolitana de São Paulo,Osasco,Ciências Econômicas,Humanas
+Unicamp,Campinas,Campinas,Ciências Econômicas,Humanas
+Unicamp,Campinas,Campinas,Ciências Econômicas,Humanas
+USP,Araraquara,São Carlos,Ciências Exatas,Exatas
+USP,Araraquara,São Carlos,Ciências Exatas,Exatas
+USP,Araraquara,São Carlos,Ciências Exatas,Exatas
+USP,Araraquara,São Carlos,Ciências Físicas,Exatas
+USP,Metropolitana de São Paulo,São Paulo,Ciências Fundamentais para a Saúde,Saúde
+Unifesp,Metropolitana de São Paulo,Guarulhos,Ciências Sociais,Humanas
+Unifesp,Metropolitana de São Paulo,Guarulhos,Ciências Sociais,Humanas
+Unesp,Araraquara,Araraquara,Ciências Sociais,Humanas
+Unesp,Marília,Marília,Ciências Sociais,Humanas
+USP,Metropolitana de São Paulo,São Paulo,Ciências Sociais,Humanas
+UFSCar,Araraquara,São Carlos,Ciências Sociais,Humanas
+PUC-SP,Metropolitana de São Paulo,São Paulo,Ciências Sociais,Humanas
+PUC-SP,Campinas,Campinas,Ciências Sociais,Humanas
+PUC-SP,Campinas,Campinas,Ciências Sociais,Humanas
+Unicamp,Campinas,Campinas,Ciências Sociais,Humanas
+Unicamp,Campinas,Campinas,Ciências Sociais,Humanas
+Unifesp,Metropolitana de São Paulo,Guarulhos,Ciências Sociais,Humanas
+Unifesp,Metropolitana de São Paulo,Guarulhos,Ciências Sociais,Humanas
+Unifesp,Metropolitana de São Paulo,Guarulhos,Ciências Sociais,Humanas
+Unifesp,Metropolitana de São Paulo,Guarulhos,Ciências Sociais,Humanas
+PUC-SP,Metropolitana de São Paulo,São Paulo,Ciências Socioambientais,Humanas
+PUC-SP,Campinas,Campinas,Cinema e Audiovisual,Humanas
+ESPM,Metropolitana de São Paulo,São Paulo,Cinema e Audiovisual,Humanas
+USCS,Metropolitana de São Paulo,São Caetano do Sul,Comércio Exterior,Humanas
+PUC-SP,Metropolitana de São Paulo,São Paulo,Comunicação das Artes do Corpo,Humanas
+PUC-SP,Metropolitana de São Paulo,São Paulo,Comunicação e Multimeios,Humanas
+ESPM,Metropolitana de São Paulo,São Paulo,Comunicação e Publicidade,Humanas
+Unicamp,Campinas,Campinas,Comunicação Social – Midialogia,Humanas
+Unesp,Bauru,Bauru,"Comunicação: Rádio, Televisão e Internet",Humanas
+FGV,Metropolitana de São Paulo,São Paulo,"Contabilidade, Finanças e Analytics",Humanas
+Unicamp,Campinas,Campinas,Curso 51 – Ingresso para: Engenharia Física/Física/Física Médica e Biomédica/ Matemática/Mat.Aplic. e Computacional (Integral),Exatas
+Unicamp,Campinas,Campinas,Dança,Humanas
+Unesp,Bauru,Bauru,Design,Humanas
+USP,Metropolitana de São Paulo,São Paulo,Design,Humanas
+PUC-SP,Metropolitana de São Paulo,São Paulo,Design,Humanas
+ESPM,Metropolitana de São Paulo,São Paulo,Design,Humanas
+ESPM,Metropolitana de São Paulo,São Paulo,Design de Animação,Humanas
+PUC-SP,Campinas,Campinas,Design de Games,Humanas
+UNITAU,Vale do Paraíba Paulista,Taubaté,Design de Interiores,Humanas
+USCS,Metropolitana de São Paulo,São Caetano do Sul,Design de Interiores,Humanas
+PUC-SP,Campinas,Campinas,Design de Moda,Humanas
+PUC-SP,Campinas,Campinas,Design Digital,Humanas
+UNITAU,Vale do Paraíba Paulista,Taubaté,Design Gráfico,Humanas
+USCS,Metropolitana de São Paulo,São Caetano do Sul,Design Gráfico,Humanas
+Unesp,Ribeirão Preto ,Franca,Direito,Humanas
+USP,Metropolitana de São Paulo,São Paulo,Direito,Humanas
+USP,Ribeirão Preto,Ribeirão Preto,Direito,Humanas
+UNITAU,Vale do Paraíba Paulista,Taubaté,Direito,Humanas
+USCS,Metropolitana de São Paulo,São Caetano do Sul,Direito,Humanas
+USCS,Metropolitana de São Paulo,São Paulo,Direito,Humanas
+FGV,Metropolitana de São Paulo,São Paulo,Direito,Humanas
+PUC-SP,Metropolitana de São Paulo,São Paulo,Direito,Humanas
+PUC-SP,Campinas,Campinas,Direito,Humanas
+ESPM,Metropolitana de São Paulo,São Paulo,Direito,Humanas
+Insper,Metropolitana de São Paulo,São Paulo,Direito,Humanas
+Unifesp,Metropolitana de São Paulo,Osasco,Direito,Humanas
+Mackenzie,Metropolitana de São Paulo,São Paulo,Direito,Humanas
+Fundação Karnig Bazarian,Itapetininga,Itapetininga,Direito,Humanas
+FMU,Metropolitana de São Paulo,São Paulo,Direito,Humanas
+UniDrummond,Metropolitana de São Paulo,São Paulo,Direito,Humanas
+Unip,Metropolitana de São Paulo,São Paulo,Direito,Humanas
+Unicsul,Metropolitana de São Paulo,São Paulo,Direito,Humanas
+ITE,Bauru,Bauru,Direito,Humanas
+ITE,Bauru,Botucatu,Direito,Humanas
+USJT,Metropolitana de São Paulo,São Paulo,Direito,Humanas
+FGV,Metropolitana de São Paulo,São Paulo,Direito & Administração de Empresas,Humanas
+FGV,Metropolitana de São Paulo,São Paulo,Direito & Administração Pública,Humanas
+Unesp,Piracicaba,Rio Claro,Ecologia,Biológicas
+FGV,Metropolitana de São Paulo,São Paulo,Economia,Humanas
+Insper,Metropolitana de São Paulo,São Paulo,Economia,Humanas
+USP,Ribeirão Preto,Ribeirão Preto,Economia Empresarial e Controladoria,Humanas
+USP,Metropolitana de São Paulo,São Paulo,Editoração,Humanas
+UFSCar,Araraquara,São Carlos,Educação Especial,Humanas
+USP,Ribeirão Preto,Ribeirão Preto,Educação Física,Saúde
+USP,Metropolitana de São Paulo,São Paulo,Educação Física,Saúde
+USP,Metropolitana de São Paulo,São Paulo,Educação Física,Saúde
+Unesp,Bauru,Bauru,Educação Física,Saúde
+Unesp,Presidente Prudente,Presidente Prudente,Educação Física,Saúde
+Unesp,Piracicaba,Rio Claro,Educação Física,Saúde
+UFSCar,Araraquara,São Carlos,Educação Física,Saúde
+UNITAU,Vale do Paraíba Paulista,Taubaté,Educação Física,Saúde
+USCS,Metropolitana de São Paulo,São Caetano do Sul,Educação Física,Saúde
+Unifesp,Metropolitana de São Paulo,Santos,Educação Física,Saúde
+PUC-SP,Campinas,Campinas,Educação Física,Saúde
+PUC-SP,Campinas,Campinas,Educação Física,Saúde
+Unicamp,Campinas,Campinas,Educação Física,Saúde
+Unicamp,Campinas,Campinas,Educação Física,Saúde
+USP,Metropolitana de São Paulo,São Paulo,Educação Física,Saúde
+USP-Leste,Metropolitana de São Paulo,São Paulo,Educação Física e Saúde,Saúde
+USP,Metropolitana de São Paulo,São Paulo,Educomunicação,Humanas
+UNITAU,Vale do Paraíba Paulista,Taubaté,Eletrotécnica Industrial,Exatas
+USP,Ribeirão Preto,Ribeirão Preto,Enfermagem,Saúde
+USP,Metropolitana de São Paulo,São Paulo,Enfermagem,Saúde
+UFSCar,Araraquara,São Carlos,Enfermagem,Saúde
+UNITAU,Vale do Paraíba Paulista,Taubaté,Enfermagem,Saúde
+USCS,Metropolitana de São Paulo,São Caetano do Sul,Enfermagem,Saúde
+USCS,Metropolitana de São Paulo,São Paulo,Enfermagem,Saúde
+USCS,Itapetininga,Itapetininga,Enfermagem,Saúde
+PUC-SP,Metropolitana de São Paulo,São Paulo,Enfermagem,Saúde
+PUC-SP,Macro Metropolitana Paulista,Sorocaba,Enfermagem,Saúde
+PUC-SP,Campinas,Campinas,Enfermagem,Saúde
+Unifesp,Metropolitana de São Paulo,São Paulo,Enfermagem,Saúde
+Unicamp,Campinas,Campinas,Enfermagem,Saúde
+USP,Metropolitana de São Paulo,São Paulo,Enfermagem,Saúde
+USP,Ribeirão Preto,Ribeirão Preto,Enfermagem,Saúde
+UFABC,Metropolitana de São Paulo,São Bernardo do Campo,Engenharia Aeroespacial,Exatas
+Unesp,Campinas,São João da Boa Vista,Engenharia Aeronáutica,Exatas
+USP,Araraquara,São Carlos,Engenharia Aeronáutica,Exatas
+UNITAU,Vale do Paraíba Paulista,Taubaté,Engenharia Aeronáutica,Exatas
+Unicamp,Campinas,Campinas,Engenharia Agrícola,Exatas
+Unesp,Bauru,Botucatu,Engenharia Agronômica,Exatas
+Unesp,Presidente Prudente ,Dracena,Engenharia Agronômica,Exatas
+Unesp,Araçatuba,Ilha Solteira,Engenharia Agronômica,Exatas
+Unesp,Ribeirão Preto ,Jaboticabal,Engenharia Agronômica,Exatas
+Unesp,Litoral Sul Paulista,Registro,Engenharia Agronômica,Exatas
+USP,Piracicaba,Piracicaba,Engenharia Agronômica,Exatas
+UFSCar,Piracicaba,Araras,Engenharia Agronômica,Exatas
+UFSCar,Itapetininga,Buri,Engenharia Agronômica,Exatas
+PUC-SP,Campinas,Campinas,Engenharia Agronômica,Exatas
+Unesp,Presidente Prudente,Presidente Prudente,Engenharia Ambiental,Exatas
+Unesp,Piracicaba,Rio Claro,Engenharia Ambiental,Exatas
+Unesp,Vale do Paraíba Paulista,São José dos Campos,Engenharia Ambiental,Exatas
+Unesp,Macro Metropolitana Paulista,Sorocaba,Engenharia Ambiental,Exatas
+USP,Metropolitana de São Paulo,São Paulo,Engenharia Ambiental,Exatas
+USP,Araraquara,São Carlos,Engenharia Ambiental,Exatas
+USP,Vale do Paraíba Paulista,Lorena,Engenharia Ambiental,Exatas
+UFSCar,Itapetininga,Buri,Engenharia Ambiental,Exatas
+Unifesp,Metropolitana de São Paulo,Santos,Engenharia Ambiental,Exatas
+Unicamp,Piracicaba,Limeira,Engenharia Ambiental,Exatas
+PUC-SP,Campinas,Campinas,Engenharia Ambiental e Sanitária,Exatas
+UFABC,Metropolitana de São Paulo,Santo André,Engenharia Ambiental e Urbana,Exatas
+UFABC,Metropolitana de São Paulo,São Bernardo do Campo,Engenharia Biomédica,Exatas
+PUC-SP,Metropolitana de São Paulo,São Paulo,Engenharia Biomédica,Exatas
+PUC-SP,Campinas,Campinas,Engenharia Biomédica,Exatas
+Unifesp,Vale do Paraíba Paulista,São José dos Campos,Engenharia Biomédica,Exatas
+USP,Vale do Paraíba Paulista,Lorena,Engenharia Bioquímica,Exatas
+Unesp,Assis,Assis,Engenharia Biotecnológica,Exatas
+Unesp,Presidente Prudente,Presidente Prudente,Engenharia Cartográfica e de Agrimensura,Exatas
+Unesp,Bauru,Bauru,Engenharia Civil,Exatas
+Unesp,Vale do Paraíba Paulista ,Guaratinguetá,Engenharia Civil,Exatas
+Unesp,Araçatuba,Ilha Solteira,Engenharia Civil,Exatas
+USP,Metropolitana de São Paulo,São Paulo,Engenharia Civil,Exatas
+USP,Araraquara,São Carlos,Engenharia Civil,Exatas
+UFSCar,Araraquara,São Carlos,Engenharia Civil,Exatas
+UNITAU,Vale do Paraíba Paulista,Taubaté,Engenharia Civil,Exatas
+USCS,Metropolitana de São Paulo,São Caetano do Sul,Engenharia Civil,Exatas
+PUC-SP,Metropolitana de São Paulo,São Paulo,Engenharia Civil,Exatas
+PUC-SP,Campinas,Campinas,Engenharia Civil,Exatas
+Unicamp,Campinas,Campinas,Engenharia Civil,Exatas
+USP,Metropolitana de São Paulo,São Paulo,Engenharia da Computação,Exatas
+USCS,Metropolitana de São Paulo,São Caetano do Sul,Engenharia da Computação,Exatas
+PUC-SP,Campinas,Campinas,Engenharia da Computação,Exatas
+UFABC,Metropolitana de São Paulo,Santo André,Engenharia da Informação,Exatas
+Unesp,São José do Rio Preto,São José do Rio Preto,Engenharia de Alimentos,Exatas
+USP,Campinas,Pirassununga,Engenharia de Alimentos,Exatas
+USP,Campinas,Pirassununga,Engenharia de Alimentos,Exatas
+UFSCar,Itapetininga,Buri,Engenharia de Alimentos,Exatas
+PUC-SP,Campinas,Campinas,Engenharia de Alimentos,Exatas
+Unicamp,Campinas,Campinas,Engenharia de Alimentos,Exatas
+Unicamp,Campinas,Campinas,Engenharia de Alimentos,Exatas
+Unesp,Araraquara,Araraquara,Engenharia de Bioprocessos e Biotecnologia,Exatas
+Unesp,Bauru,Botucatu,Engenharia de Bioprocessos e Biotecnologia,Exatas
+Unesp,Marília,Tupã,Engenharia de Biossistemas,Exatas
+USP,Araraquara,São Carlos,Engenharia de Computação,Exatas
+USP,Araraquara,São Carlos,Engenharia de Computação,Exatas
+UFSCar,Araraquara,São Carlos,Engenharia de Computação,Exatas
+UNITAU,Vale do Paraíba Paulista,Taubaté,Engenharia de Computação,Exatas
+Insper,Metropolitana de São Paulo,São Paulo,Engenharia de Computação,Exatas
+Unifesp,Vale do Paraíba Paulista,São José dos Campos,Engenharia de Computação,Exatas
+Unicamp,Campinas,Campinas,Engenharia de Computação,Exatas
+Unesp,Macro Metropolitana Paulista,Sorocaba,Engenharia de Controle e Automação,Exatas
+USCS,Metropolitana de São Paulo,São Caetano do Sul,Engenharia de Controle e Automação,Exatas
+PUC-SP,Campinas,Campinas,Engenharia de Controle e Automação,Exatas
+Unicamp,Campinas,Campinas,Engenharia de Controle e Automação,Exatas
+Unesp,Presidente Prudente ,Rosana,Engenharia de Energia,Exatas
+UFABC,Metropolitana de São Paulo,Santo André,Engenharia de Energia,Exatas
+UFABC,Metropolitana de São Paulo,São Bernardo do Campo,Engenharia de Gestão,Exatas
+UFABC,Metropolitana de São Paulo,Santo André,"Engenharia de Instrumentação, Automação e Robótica",Exatas
+Unicamp,Piracicaba,Limeira,Engenharia de Manufatura,Exatas
+Unesp,Vale do Paraíba Paulista ,Guaratinguetá,Engenharia de Materiais,Exatas
+USP,Metropolitana de São Paulo,São Paulo,Engenharia de Materiais,Exatas
+USP,Vale do Paraíba Paulista,Lorena,Engenharia de Materiais,Exatas
+UFSCar,Araraquara,São Carlos,Engenharia de Materiais,Exatas
+Unifesp,Vale do Paraíba Paulista,São José dos Campos,Engenharia De Materiais,Exatas
+USP,Araraquara,São Carlos,Engenharia de Materiais e Manufatura,Exatas
+USP,Metropolitana de São Paulo,São Paulo,Engenharia de Minas,Exatas
+Unesp,Litoral Sul Paulista,Registro,Engenharia de Pesca,Exatas
+USP,Metropolitana de São Paulo,São Paulo,Engenharia de Petróleo,Exatas
+Unifesp,Metropolitana de São Paulo,Santos,Engenharia De Petróleo,Exatas
+Unifesp,Metropolitana de São Paulo,Santos,Engenharia De Petróleo,Exatas
+Unesp,Bauru,Bauru,Engenharia de Produção,Exatas
+Unesp,Itapetininga,Itapeva,Engenharia de Produção,Exatas
+USP,Metropolitana de São Paulo,São Paulo,Engenharia de Produção,Exatas
+USP,Metropolitana de São Paulo,São Paulo,Engenharia de Produção,Exatas
+USP,Araraquara,São Carlos,Engenharia de Produção,Exatas
+USP,Vale do Paraíba Paulista,Lorena,Engenharia de Produção,Exatas
+UFSCar,Araraquara,São Carlos,Engenharia de Produção,Exatas
+UFSCar,Macro Metropolitana Paulista,Sorocaba,Engenharia de Produção,Exatas
+USCS,Metropolitana de São Paulo,São Caetano do Sul,Engenharia de Produção,Exatas
+PUC-SP,Metropolitana de São Paulo,São Paulo,Engenharia de Produção,Exatas
+PUC-SP,Campinas,Campinas,Engenharia de Produção,Exatas
+Unicamp,Piracicaba,Limeira,Engenharia de Produção,Exatas
+Unesp,Vale do Paraíba Paulista ,Guaratinguetá,Engenharia de Produção Mecânica,Exatas
+PUC-SP,Metropolitana de São Paulo,São Paulo,Engenharia de Sistemas Ciber Físicos,Exatas
+PUC-SP,Campinas,Campinas,Engenharia de Software,Exatas
+Unicamp,Piracicaba,Limeira,Engenharia de Telecomunicações,Exatas
+Unicamp,Piracicaba,Limeira,Engenharia de Transportes,Exatas
+UFABC,Metropolitana de São Paulo,Santo André,Engenharia dos Materiais,Exatas
+Unesp,Bauru,Bauru,Engenharia Elétrica,Exatas
+Unesp,Vale do Paraíba Paulista ,Guaratinguetá,Engenharia Elétrica,Exatas
+Unesp,Araçatuba,Ilha Solteira,Engenharia Elétrica,Exatas
+USP,Metropolitana de São Paulo,São Paulo,Engenharia Elétrica,Exatas
+UFSCar,Araraquara,São Carlos,Engenharia Elétrica,Exatas
+USCS,Metropolitana de São Paulo,São Caetano do Sul,Engenharia Elétrica,Exatas
+PUC-SP,Campinas,Campinas,Engenharia Elétrica,Exatas
+Unicamp,Campinas,Campinas,Engenharia Elétrica,Exatas
+Unicamp,Campinas,Campinas,Engenharia Elétrica,Exatas
+USP,Araraquara,São Carlos,Engenharia Elétrica - Sistemas de Energia e Automação,Exatas
+USP,Araraquara,São Carlos,Engenharia Elétrica e Eletrônica,Exatas
+UNITAU,Vale do Paraíba Paulista,Taubaté,Engenharia Elétrica e Eletrônica,Exatas
+Unesp,Campinas,São João da Boa Vista,Engenharia Eletrônica e de Telecomunicações,Exatas
+USP,Vale do Paraíba Paulista,Lorena,Engenharia Física,Exatas
+UFSCar,Araraquara,São Carlos,Engenharia Física,Exatas
+Unesp,Bauru,Botucatu,Engenharia Florestal,Exatas
+USP,Piracicaba,Piracicaba,Engenharia Florestal,Exatas
+UFSCar,Macro Metropolitana Paulista,Sorocaba,Engenharia Florestal,Exatas
+Unesp,Itapetininga,Itapeva,Engenharia Industrial Madeireira,Exatas
+Unesp,Bauru,Bauru,Engenharia Mecânica,Exatas
+Unesp,Vale do Paraíba Paulista ,Guaratinguetá,Engenharia Mecânica,Exatas
+Unesp,Araçatuba,Ilha Solteira,Engenharia Mecânica,Exatas
+USP,Metropolitana de São Paulo,São Paulo,Engenharia Mecânica,Exatas
+USP,Araraquara,São Carlos,Engenharia Mecânica,Exatas
+UFSCar,Araraquara,São Carlos,Engenharia Mecânica,Exatas
+UNITAU,Vale do Paraíba Paulista,Taubaté,Engenharia Mecânica,Exatas
+PUC-SP,Campinas,Campinas,Engenharia Mecânica,Exatas
+Insper,Metropolitana de São Paulo,São Paulo,Engenharia Mecânica,Exatas
+Unicamp,Campinas,Campinas,Engenharia Mecânica,Exatas
+USP,Metropolitana de São Paulo,São Paulo,Engenharia Mecatrônica,Exatas
+USP,Araraquara,São Carlos,Engenharia Mecatrônica,Exatas
+Insper,Metropolitana de São Paulo,São Paulo,Engenharia Mecatrônica,Exatas
+USP,Metropolitana de São Paulo,São Paulo,Engenharia Metalúrgica,Exatas
+USP,Metropolitana de São Paulo,São Paulo,Engenharia Naval,Exatas
+Unesp,Araraquara,Araraquara,Engenharia Química,Exatas
+USP,Metropolitana de São Paulo,São Paulo,Engenharia Química,Exatas
+USP,Metropolitana de São Paulo,São Paulo,Engenharia Química,Exatas
+USP,Vale do Paraíba Paulista,Lorena,Engenharia Química,Exatas
+UFSCar,Araraquara,São Carlos,Engenharia Química,Exatas
+USCS,Metropolitana de São Paulo,São Caetano do Sul,Engenharia Química,Exatas
+PUC-SP,Campinas,Campinas,Engenharia Química,Exatas
+Unifesp,Metropolitana de São Paulo,Diadema,Engenharia Química,Exatas
+Unifesp,Metropolitana de São Paulo,Diadema,Engenharia Química,Exatas
+Unicamp,Campinas,Campinas,Engenharia Química,Exatas
+Unicamp,Campinas,Campinas,Engenharia Química,Exatas
+USP,Metropolitana de São Paulo,São Paulo,Estatística,Exatas
+Unesp,Presidente Prudente,Presidente Prudente,Estatística,Exatas
+UFSCar,Araraquara,São Carlos,Estatística,Exatas
+Unicamp,Campinas,Campinas,Estatística,Exatas
+USCS,Metropolitana de São Paulo,São Caetano do Sul,Estatística e Ciência de Dados,Exatas
+USP,Araraquara,São Carlos,Estatística e Ciência de Dados,Exatas
+UNITAU,Vale do Paraíba Paulista,Taubaté,Estética e Cosmética,Saúde
+USCS,Metropolitana de São Paulo,São Caetano do Sul,Estética e Cosmetologia,Saúde
+Unicamp,Campinas,Campinas,Estudos Literários,Humanas
+Unesp,Araraquara,Araraquara,Farmácia,Saúde
+USP,Metropolitana de São Paulo,São Paulo,Farmácia,Saúde
+USP,Ribeirão Preto,Ribeirão Preto,Farmácia,Saúde
+USCS,Metropolitana de São Paulo,São Caetano do Sul,Farmácia,Saúde
+PUC-SP,Campinas,Campinas,Farmácia,Saúde
+Unifesp,Metropolitana de São Paulo,Diadema,Farmácia,Saúde
+Unifesp,Metropolitana de São Paulo,Diadema,Farmácia,Saúde
+Unicamp,Campinas,Campinas,Farmácia,Saúde
+Unifesp,Metropolitana de São Paulo,Guarulhos,Filosofia,Humanas
+Unifesp,Metropolitana de São Paulo,Guarulhos,Filosofia,Humanas
+Unesp,Marília,Marília,Filosofia,Humanas
+USP,Metropolitana de São Paulo,São Paulo,Filosofia,Humanas
+UFSCar,Araraquara,São Carlos,Filosofia,Humanas
+UFABC,Metropolitana de São Paulo,São Bernardo do Campo,Filosofia,Humanas
+PUC-SP,Metropolitana de São Paulo,São Paulo,Filosofia,Humanas
+PUC-SP,Campinas,Campinas,Filosofia,Humanas
+Unicamp,Campinas,Campinas,Filosofia,Humanas
+Unifesp,Metropolitana de São Paulo,Guarulhos,Filosofia,Humanas
+USP,Ribeirão Preto,Ribeirão Preto,Finanças e Negócios,Humanas
+USP,Metropolitana de São Paulo,São Paulo,Física,Exatas
+Unesp,Bauru,Bauru,Física,Exatas
+Unesp,Vale do Paraíba Paulista ,Guaratinguetá,Física,Exatas
+Unesp,Presidente Prudente,Presidente Prudente,Física,Exatas
+Unesp,Piracicaba,Rio Claro,Física,Exatas
+Unesp,São José do Rio Preto,São José do Rio Preto,Física,Exatas
+USP,Araraquara,São Carlos,Física,Exatas
+UFSCar,Piracicaba,Araras,Física,Exatas
+UFSCar,Araraquara,São Carlos,Física,Exatas
+UFSCar,Macro Metropolitana Paulista,Sorocaba,Física,Exatas
+UFABC,Metropolitana de São Paulo,Santo André,Física,Exatas
+UFABC,Metropolitana de São Paulo,Santo André,Física,Exatas
+Unesp,Araçatuba,Ilha Solteira,Física,Exatas
+USP,Metropolitana de São Paulo,São Paulo,Física,Exatas
+Unicamp,Campinas,Campinas,Física,Exatas
+USP,Araraquara,São Carlos,Física Computacional,Exatas
+USP,Ribeirão Preto,Ribeirão Preto,Física Médica,Exatas
+Unesp,Bauru,Botucatu,Física Médica,Exatas
+USP,Metropolitana de São Paulo,São Paulo,Física Médica,Exatas
+USP,Metropolitana de São Paulo,São Paulo,Física Médica,Exatas
+Unesp,Marília,Marília,Fisioterapia,Saúde
+Unesp,Presidente Prudente,Presidente Prudente,Fisioterapia,Saúde
+USP,Metropolitana de São Paulo,São Paulo,Fisioterapia,Saúde
+USP,Ribeirão Preto,Ribeirão Preto,Fisioterapia,Saúde
+UFSCar,Araraquara,São Carlos,Fisioterapia,Saúde
+UNITAU,Vale do Paraíba Paulista,Taubaté,Fisioterapia,Saúde
+USCS,Metropolitana de São Paulo,São Caetano do Sul,Fisioterapia,Saúde
+PUC-SP,Metropolitana de São Paulo,São Paulo,Fisioterapia,Saúde
+PUC-SP,Campinas,Campinas,Fisioterapia,Saúde
+Unifesp,Metropolitana de São Paulo,Santos,Fisioterapia,Saúde
+Unesp,Marília,Marília,Fonoaudiologia,Saúde
+USP,Metropolitana de São Paulo,São Paulo,Fonoaudiologia,Saúde
+USP,Ribeirão Preto,Ribeirão Preto,Fonoaudiologia,Saúde
+USP,Bauru,Bauru,Fonoaudiologia,Saúde
+UNITAU,Vale do Paraíba Paulista,Taubaté,Fonoaudiologia,Saúde
+USCS,Metropolitana de São Paulo,São Caetano do Sul,Fonoaudiologia,Saúde
+PUC-SP,Metropolitana de São Paulo,São Paulo,Fonoaudiologia,Saúde
+PUC-SP,Campinas,Campinas,Fonoaudiologia,Saúde
+Unifesp,Metropolitana de São Paulo,São Paulo,Fonoaudiologia,Saúde
+Unicamp,Campinas,Campinas,Fonoaudiologia,Saúde
+PUC-SP,Campinas,Campinas,Gastronomia,Humanas
+USP,Metropolitana de São Paulo,São Paulo,Geociências e Educação Ambiental,Biológicas
+USP,Metropolitana de São Paulo,São Paulo,Geofísica,Exatas
+Unifesp-Zona_Leste,Metropolitana de São Paulo,São Paulo,Geografia,Humanas
+Unesp,Assis,Ourinhos,Geografia,Humanas
+Unesp,Presidente Prudente,Presidente Prudente,Geografia,Humanas
+Unesp,Piracicaba,Rio Claro,Geografia,Humanas
+USP,Metropolitana de São Paulo,São Paulo,Geografia,Humanas
+UFSCar,Macro Metropolitana Paulista,Sorocaba,Geografia,Humanas
+PUC-SP,Campinas,Campinas,Geografia,Humanas
+PUC-SP,Campinas,Campinas,Geografia,Humanas
+Unicamp,Campinas,Campinas,Geografia,Humanas
+Unicamp,Campinas,Campinas,Geografia,Humanas
+Unifesp-Zona_Leste,Metropolitana de São Paulo,São Paulo,Geografia,Humanas
+Unifesp-Zona_Leste,Metropolitana de São Paulo,São Paulo,Geografia,Humanas
+Unesp,Piracicaba,Rio Claro,Geologia,Exatas
+USP,Metropolitana de São Paulo,São Paulo,Geologia,Exatas
+Unicamp,Campinas,Campinas,Geologia,Exatas
+USP-Leste,Metropolitana de São Paulo,São Paulo,Gerontologia,Saúde
+UFSCar,Araraquara,São Carlos,Gerontologia,Saúde
+USP-Leste,Metropolitana de São Paulo,São Paulo,Gestão Ambiental,Humanas
+USP,Piracicaba,Piracicaba,Gestão Ambiental,Humanas
+USCS,Metropolitana de São Paulo,São Caetano do Sul,Gestão Comercial,Humanas
+USCS,Metropolitana de São Paulo,São Caetano do Sul,Gestão da Qualidade,Humanas
+USP-Leste,Metropolitana de São Paulo,São Paulo,Gestão de Políticas Públicas,Humanas
+UNITAU,Vale do Paraíba Paulista,Taubaté,Gestão de Recursos Humanos,Humanas
+USCS,Metropolitana de São Paulo,São Caetano do Sul,Gestão de RH,Humanas
+PUC-SP,Campinas,Campinas,Gestão de Tecnologia da Informação,Humanas
+USCS,Metropolitana de São Paulo,São Caetano do Sul,Gestão de TI,Humanas
+UFSCar,Araraquara,São Carlos,Gestão e Análise Ambiental,Humanas
+USCS,Metropolitana de São Paulo,São Caetano do Sul,Gestão Financeira,Humanas
+USCS,Metropolitana de São Paulo,São Caetano do Sul,Gestão Hospitalar,Humanas
+USCS,Metropolitana de São Paulo,São Caetano do Sul,Gestão Logística,Humanas
+USP,Ribeirão Preto,Ribeirão Preto,Habilitação em Canto e Arte Lírica,Humanas
+USP,Ribeirão Preto,Ribeirão Preto,Habilitação em Música,Humanas
+Unifesp,Metropolitana de São Paulo,Guarulhos,História,Humanas
+Unifesp,Metropolitana de São Paulo,Guarulhos,História,Humanas
+Unesp,Assis,Assis,História,Humanas
+Unesp,Ribeirão Preto ,Franca,História,Humanas
+USP,Metropolitana de São Paulo,São Paulo,História,Humanas
+UFABC,Metropolitana de São Paulo,São Bernardo do Campo,História,Humanas
+UNITAU,Vale do Paraíba Paulista,Taubaté,História,Humanas
+PUC-SP,Metropolitana de São Paulo,São Paulo,História,Humanas
+Unicamp,Campinas,Campinas,História,Humanas
+Unifesp,Metropolitana de São Paulo,Guarulhos,História,Humanas
+Unifesp,Metropolitana de São Paulo,Guarulhos,História,Humanas
+Unifesp,Metropolitana de São Paulo,Guarulhos,História,Humanas
+Unifesp,Metropolitana de São Paulo,Guarulhos,História,Humanas
+PUC-SP,Campinas,Campinas,História,Humanas
+PUC-SP,Campinas,Campinas,História,Humanas
+Unifesp,Metropolitana de São Paulo,Guarulhos,História Da Arte - Noturno,Humanas
+UFSCar,Araraquara,São Carlos,Imagem e Som,Humanas
+USP,Ribeirão Preto,Ribeirão Preto,Informática Biomédica,Humanas
+Unicamp,Campinas,Campinas,Integrada Química/Física,Exatas
+UNITAU,Vale do Paraíba Paulista,Taubaté,Inteligência Artificial,Exatas
+USCS,Metropolitana de São Paulo,São Caetano do Sul,Inteligência Artificial,Exatas
+Unifesp,Metropolitana de São Paulo,Santos,Intercultural Indígena,Humanas
+Unifesp,Vale do Paraíba Paulista,São José dos Campos,Interdisciplinar Em Ciência E Tecnologia,Exatas
+Unifesp,Vale do Paraíba Paulista,São José dos Campos,Interdisciplinar Em Ciência E Tecnologia,Exatas
+Unifesp,Metropolitana de São Paulo,Santos,Interdisciplinar Em Ciência E Tecnologia Do Mar,Exatas
+Unifesp,Metropolitana de São Paulo,Santos,Interdisciplinar Em Ciência E Tecnologia Do Mar,Exatas
+USCS,Metropolitana de São Paulo,São Caetano do Sul,Jogos Digitais,Exatas
+PUC-SP,Metropolitana de São Paulo,São Paulo,Jogos Digitais,Exatas
+PUC-SP,Campinas,Campinas,Jogos Digitais,Exatas
+Unesp,Bauru,Bauru,Jornalismo,Humanas
+USP,Metropolitana de São Paulo,São Paulo,Jornalismo,Humanas
+UNITAU,Vale do Paraíba Paulista,Taubaté,Jornalismo,Humanas
+USCS,Metropolitana de São Paulo,São Caetano do Sul,Jornalismo,Humanas
+PUC-SP,Metropolitana de São Paulo,São Paulo,Jornalismo,Humanas
+PUC-SP,Campinas,Campinas,Jornalismo,Humanas
+ESPM,Metropolitana de São Paulo,São Paulo,Jornalismo,Humanas
+USP-Leste,Metropolitana de São Paulo,São Paulo,Lazer e Turismo,Humanas
+Unesp,Assis,Assis,Letras,Humanas
+Unesp,São José do Rio Preto,São José do Rio Preto,Letras,Humanas
+USP,Metropolitana de São Paulo,São Paulo,Letras,Humanas
+UFSCar,Araraquara,São Carlos,Letras,Humanas
+UNITAU,Vale do Paraíba Paulista,Taubaté,Letras,Humanas
+Unesp,São José do Rio Preto,São José do Rio Preto,Letras com Habilitação de Tradutor,Humanas
+Unifesp,Metropolitana de São Paulo,Guarulhos,Letras: Português,Humanas
+Unifesp,Metropolitana de São Paulo,Guarulhos,Letras: Português,Humanas
+Unesp,Araraquara,Araraquara,Letras: Português,Humanas
+Unifesp,Metropolitana de São Paulo,Guarulhos,Letras: Português,Humanas
+Unifesp,Metropolitana de São Paulo,Guarulhos,Letras: Português,Humanas
+Unifesp,Metropolitana de São Paulo,Guarulhos,Letras: Português,Humanas
+Unifesp,Metropolitana de São Paulo,Guarulhos,Letras: Português,Humanas
+Unicamp,Campinas,Campinas,Letras: Português,Humanas
+Unicamp,Campinas,Campinas,Letras: Português,Humanas
+Unifesp,Metropolitana de São Paulo,Guarulhos,Letras: Português e Espanhol,Humanas
+Unifesp,Metropolitana de São Paulo,Guarulhos,Letras: Português e Espanhol,Humanas
+Unifesp,Metropolitana de São Paulo,Guarulhos,Letras: Português e Espanhol,Humanas
+Unifesp,Metropolitana de São Paulo,Guarulhos,Letras: Português E Espanhol,Humanas
+Unifesp,Metropolitana de São Paulo,Guarulhos,Letras: Português E Espanhol,Humanas
+Unifesp,Metropolitana de São Paulo,Guarulhos,Letras: Português E Espanhol,Humanas
+Unifesp,Metropolitana de São Paulo,Guarulhos,Letras: Português e Francês,Humanas
+Unifesp,Metropolitana de São Paulo,Guarulhos,Letras: Português e Francês,Humanas
+Unifesp,Metropolitana de São Paulo,Guarulhos,Letras: Português e Francês,Humanas
+Unifesp,Metropolitana de São Paulo,Guarulhos,Letras: Português E Francês,Humanas
+Unifesp,Metropolitana de São Paulo,Guarulhos,Letras: Português E Francês,Humanas
+Unifesp,Metropolitana de São Paulo,Guarulhos,Letras: Português E Francês,Humanas
+Unifesp,Metropolitana de São Paulo,Guarulhos,Letras: Português E Francês,Humanas
+Unifesp,Metropolitana de São Paulo,Guarulhos,Letras: Português e Inglês,Humanas
+PUC-SP,Metropolitana de São Paulo,São Paulo,Letras: Português E Inglês,Humanas
+Unifesp,Metropolitana de São Paulo,Guarulhos,Letras: Português E Inglês,Humanas
+Unifesp,Metropolitana de São Paulo,Guarulhos,Letras: Português E Inglês,Humanas
+Unifesp,Metropolitana de São Paulo,Guarulhos,Letras: Português E Inglês,Humanas
+Unifesp,Metropolitana de São Paulo,Guarulhos,Letras: Português E Inglês,Humanas
+PUC-SP,Metropolitana de São Paulo,São Paulo,Letras: Português E Inglês,Humanas
+PUC-SP,Campinas,Campinas,Letras: Português E Inglês,Humanas
+PUC-SP,Campinas,Campinas,Letras: Português E Inglês,Humanas
+UFSCar,Araraquara,São Carlos,Linguística,Humanas
+Unicamp,Campinas,Campinas,Linguística,Humanas
+USP-Leste,Metropolitana de São Paulo,São Paulo,Marketing,Humanas
+USCS,Metropolitana de São Paulo,São Caetano do Sul,Marketing,Humanas
+USP,Metropolitana de São Paulo,São Paulo,Matemática,Exatas
+Unesp,Araçatuba,Ilha Solteira,Matemática,Exatas
+USP,Metropolitana de São Paulo,São Paulo,Matemática,Exatas
+Unicamp,Campinas,Campinas,Matemática,Exatas
+Unesp,Bauru,Bauru,Matemática,Exatas
+Unesp,Vale do Paraíba Paulista ,Guaratinguetá,Matemática,Exatas
+Unesp,Presidente Prudente,Presidente Prudente,Matemática,Exatas
+Unesp,Piracicaba,Rio Claro,Matemática,Exatas
+Unesp,São José do Rio Preto,São José do Rio Preto,Matemática,Exatas
+UFSCar,Araraquara,São Carlos,Matemática,Exatas
+UFSCar,Macro Metropolitana Paulista,Sorocaba,Matemática,Exatas
+UFABC,Metropolitana de São Paulo,Santo André,Matemática,Exatas
+UFABC,Metropolitana de São Paulo,Santo André,Matemática,Exatas
+PUC-SP,Campinas,Campinas,Matemática,Exatas
+USP,Araraquara,São Carlos,Matemática,Exatas
+USP,Araraquara,São Carlos,Matemática,Exatas
+USP,Metropolitana de São Paulo,São Paulo,Matemática Aplicada ,Exatas
+USP,Ribeirão Preto,Ribeirão Preto,Matemática Aplicada a Negócios,Exatas
+USP,Araraquara,São Carlos,Matemática Aplicada e Computação Científica,Exatas
+USP,Metropolitana de São Paulo,São Paulo,Matemática Aplicada e Computacional,Exatas
+Unifesp,Vale do Paraíba Paulista,São José dos Campos,Matemática Computacional ,Exatas
+Unesp,Bauru,Botucatu,Medicina,Saúde
+USP,Metropolitana de São Paulo,São Paulo,Medicina,Saúde
+USP,Ribeirão Preto,Ribeirão Preto,Medicina,Saúde
+UFSCar,Araraquara,São Carlos,Medicina,Saúde
+UNITAU,Vale do Paraíba Paulista,Taubaté,Medicina,Saúde
+USCS,Metropolitana de São Paulo,São Caetano do Sul,Medicina,Saúde
+USCS,Metropolitana de São Paulo,São Paulo,Medicina,Saúde
+USCS,Itapetininga,Itapetininga,Medicina,Saúde
+PUC-SP,Metropolitana de São Paulo,São Paulo,Medicina,Saúde
+PUC-SP,Macro Metropolitana Paulista,Sorocaba,Medicina,Saúde
+PUC-SP,Campinas,Campinas,Medicina,Saúde
+Unifesp,Metropolitana de São Paulo,São Paulo,Medicina,Saúde
+Unicamp,Campinas,Campinas,Medicina,Saúde
+Unesp,Araçatuba,Araçatuba,Medicina Veterinária,Saúde
+Unesp,Bauru,Botucatu,Medicina Veterinária,Saúde
+Unesp,Ribeirão Preto ,Jaboticabal,Medicina Veterinária,Saúde
+USP,Metropolitana de São Paulo,São Paulo,Medicina Veterinária,Saúde
+USP,Campinas,Pirassununga,Medicina Veterinária,Saúde
+UNITAU,Vale do Paraíba Paulista,Taubaté,Medicina Veterinária,Saúde
+USCS,Metropolitana de São Paulo,São Caetano do Sul,Medicina Veterinária,Saúde
+PUC-SP,Campinas,Campinas,Medicina Veterinária,Saúde
+Unesp,Bauru,Bauru,Meteorologia,Exatas
+USP,Metropolitana de São Paulo,São Paulo,Meteorologia,Exatas
+PUC-SP,Campinas,Campinas,Mídias Digitais,Humanas
+UNITAU,Vale do Paraíba Paulista,Taubaté,Mídias Sociais Digitais,Humanas
+USCS,Metropolitana de São Paulo,São Caetano do Sul,Mídias Sociais e Influência Digital,Humanas
+Unesp,Metropolitana de São Paulo,São Paulo,Música,Humanas
+USP,Metropolitana de São Paulo,São Paulo,Música,Humanas
+UFSCar,Araraquara,São Carlos,Música,Humanas
+Unicamp,Campinas,Campinas,Música,Humanas
+USP,Ribeirão Preto,Ribeirão Preto,Música - Núcleo Geral,Humanas
+Unesp,Metropolitana de São Paulo,São Paulo,Música – Habilitação em Canto,Humanas
+Unesp,Metropolitana de São Paulo,São Paulo,Música – Habilitação em Composição ou Composição Eletroacústica,Humanas
+Unesp,Metropolitana de São Paulo,São Paulo,"Música – Habilitação em Contrabaixo, Viola, Violino, Violoncelo, Percussão, Clarineta, Flauta, Flauta Doce, Oboé, Piano, Órgão Tubular ou Violão",Humanas
+Unesp,Metropolitana de São Paulo,São Paulo,Música – Habilitação em Regência Coral ou Regência Orquestral,Humanas
+Unicamp,Campinas,Campinas,Música Erudita: Instrumentos,Humanas
+Unicamp,Campinas,Campinas,Música Popular: Instrumentos,Humanas
+Unicamp,Campinas,Campinas,Música: Composição,Humanas
+Unicamp,Campinas,Campinas,Música: Regência,Humanas
+USCS,Metropolitana de São Paulo,São Caetano do Sul,Musicoterapia,Humanas
+USCS,Metropolitana de São Paulo,São Caetano do Sul,Negócios Imobiliários,Humanas
+UFABC,Metropolitana de São Paulo,São Bernardo do Campo,Neurociência,Biológicas
+Unesp,Bauru,Botucatu,Nutrição,Saúde
+USP,Metropolitana de São Paulo,São Paulo,Nutrição,Saúde
+UNITAU,Vale do Paraíba Paulista,Taubaté,Nutrição,Saúde
+USCS,Metropolitana de São Paulo,São Caetano do Sul,Nutrição,Saúde
+PUC-SP,Campinas,Campinas,Nutrição,Saúde
+Unifesp,Metropolitana de São Paulo,Santos,Nutrição,Saúde
+Unicamp,Piracicaba,Limeira,Nutrição,Saúde
+USP,Ribeirão Preto,Ribeirão Preto,Nutrição,Saúde
+USP-Leste,Metropolitana de São Paulo,São Paulo,Obstetrícia,Saúde
+USP,Metropolitana de São Paulo,São Paulo,Oceanografia,Exatas
+Unifesp,Metropolitana de São Paulo,Santos,Oceanografia,Exatas
+Unesp,Araçatuba,Araçatuba,Odontologia,Saúde
+Unesp,Araraquara,Araraquara,Odontologia,Saúde
+Unesp,Vale do Paraíba Paulista,São José dos Campos,Odontologia,Saúde
+USP,Metropolitana de São Paulo,São Paulo,Odontologia,Saúde
+USP,Ribeirão Preto,Ribeirão Preto,Odontologia,Saúde
+USP,Bauru,Bauru,Odontologia,Saúde
+UNITAU,Vale do Paraíba Paulista,Taubaté,Odontologia,Saúde
+USCS,Metropolitana de São Paulo,São Caetano do Sul,Odontologia,Saúde
+PUC-SP,Campinas,Campinas,Odontologia,Saúde
+Unicamp,Piracicaba,Piracicaba,Odontologia,Saúde
+Unesp,Araraquara,Araraquara,Pedagogia,Humanas
+Unesp,Bauru,Bauru,Pedagogia,Humanas
+Unesp,Marília,Marília,Pedagogia,Humanas
+Unesp,Presidente Prudente,Presidente Prudente,Pedagogia,Humanas
+Unesp,Piracicaba,Rio Claro,Pedagogia,Humanas
+Unesp,São José do Rio Preto,São José do Rio Preto,Pedagogia,Humanas
+USP,Metropolitana de São Paulo,São Paulo,Pedagogia,Humanas
+UFSCar,Araraquara,São Carlos,Pedagogia,Humanas
+UFSCar,Macro Metropolitana Paulista,Sorocaba,Pedagogia,Humanas
+UNITAU,Vale do Paraíba Paulista,Taubaté,Pedagogia,Humanas
+PUC-SP,Metropolitana de São Paulo,São Paulo,Pedagogia,Humanas
+PUC-SP,Campinas,Campinas,Pedagogia,Humanas
+Unifesp,Metropolitana de São Paulo,Guarulhos,Pedagogia,Humanas
+Unifesp,Metropolitana de São Paulo,Guarulhos,Pedagogia,Humanas
+Unicamp,Campinas,Campinas,Pedagogia,Humanas
+Unicamp,Campinas,Campinas,Pedagogia,Humanas
+UFABC,Metropolitana de São Paulo,São Bernardo do Campo,Planejamento Territorial,Humanas
+UFABC,Metropolitana de São Paulo,São Bernardo do Campo,Políticas Públicas,Humanas
+USCS,Metropolitana de São Paulo,São Caetano do Sul,Processos Gerenciais,Humanas
+USCS,Itapetininga,Itapetininga,Processos Gerenciais,Humanas
+UNITAU,Vale do Paraíba Paulista,Taubaté,Produção Audiovisual,Humanas
+USCS,Metropolitana de São Paulo,São Caetano do Sul,Produção Audiovisual,Humanas
+USCS,Metropolitana de São Paulo,São Caetano do Sul,Produção cultural,Humanas
+Unesp,Assis,Assis,Psicologia,Humanas
+Unesp,Bauru,Bauru,Psicologia,Humanas
+USP,Metropolitana de São Paulo,São Paulo,Psicologia,Humanas
+UFSCar,Araraquara,São Carlos,Psicologia,Humanas
+UNITAU,Vale do Paraíba Paulista,Taubaté,Psicologia,Humanas
+USCS,Metropolitana de São Paulo,São Caetano do Sul,Psicologia,Humanas
+USCS,Metropolitana de São Paulo,São Paulo,Psicologia,Humanas
+PUC-SP,Metropolitana de São Paulo,São Paulo,Psicologia,Humanas
+PUC-SP,Campinas,Campinas,Psicologia,Humanas
+Unifesp,Metropolitana de São Paulo,Santos,Psicologia,Humanas
+USP,Metropolitana de São Paulo,São Paulo,Publicidade e Propaganda,Humanas
+UNITAU,Vale do Paraíba Paulista,Taubaté,Publicidade e Propaganda,Humanas
+USCS,Metropolitana de São Paulo,São Caetano do Sul,Publicidade e Propaganda,Humanas
+PUC-SP,Metropolitana de São Paulo,São Paulo,Publicidade e Propaganda,Humanas
+PUC-SP,Campinas,Campinas,Publicidade e Propaganda,Humanas
+USP,Metropolitana de São Paulo,São Paulo,Química,Exatas
+USP,Araraquara,São Carlos,Química,Exatas
+Unesp,Araraquara,Araraquara,Química,Exatas
+USP,Metropolitana de São Paulo,São Paulo,Química,Exatas
+Unesp,Araraquara,Araraquara,Química,Exatas
+Unesp,Bauru,Bauru,Química,Exatas
+Unesp,Presidente Prudente,Presidente Prudente,Química,Exatas
+UFSCar,Piracicaba,Araras,Química,Exatas
+UFSCar,Araraquara,São Carlos,Química,Exatas
+UFSCar,Macro Metropolitana Paulista,Sorocaba,Química,Exatas
+UFABC,Metropolitana de São Paulo,Santo André,Química,Exatas
+UFABC,Metropolitana de São Paulo,Santo André,Química,Exatas
+PUC-SP,Campinas,Campinas,Química,Exatas
+Unifesp,Metropolitana de São Paulo,Diadema,Química,Exatas
+Unicamp,Campinas,Campinas,Química,Exatas
+Unifesp,Metropolitana de São Paulo,Diadema,Química Industrial,Exatas
+Unesp,Araraquara,Araraquara,Química Tecnológica,Exatas
+Unicamp,Campinas,Campinas,Química Tecnológica,Exatas
+Unesp,São José do Rio Preto,São José do Rio Preto,Química: Bacharelado em Química Ambiental,Exatas
+Unesp,Ribeirão Preto ,Franca,Relações Internacionais,Humanas
+Unesp,Marília,Marília,Relações Internacionais,Humanas
+USP,Metropolitana de São Paulo,São Paulo,Relações Internacionais,Humanas
+UFABC,Metropolitana de São Paulo,São Bernardo do Campo,Relações Internacionais,Humanas
+UNITAU,Vale do Paraíba Paulista,Taubaté,Relações Internacionais,Humanas
+USCS,Metropolitana de São Paulo,São Caetano do Sul,Relações Internacionais,Humanas
+FGV,Metropolitana de São Paulo,São Paulo,Relações Internacionais,Humanas
+PUC-SP,Metropolitana de São Paulo,São Paulo,Relações Internacionais,Humanas
+PUC-SP,Campinas,Campinas,Relações Internacionais,Humanas
+ESPM,Metropolitana de São Paulo,São Paulo,Relações Internacionais,Humanas
+Unifesp,Metropolitana de São Paulo,Osasco,Relações Internacionais,Humanas
+Unifesp,Metropolitana de São Paulo,Osasco,Relações Internacionais,Humanas
+Unesp,Bauru,Bauru,Relações Públicas,Humanas
+USP,Metropolitana de São Paulo,São Paulo,Relações Públicas,Humanas
+UNITAU,Vale do Paraíba Paulista,Taubaté,Relações Públicas,Humanas
+PUC-SP,Campinas,Campinas,Relações Públicas,Humanas
+USP,Metropolitana de São Paulo,São Paulo,Saúde Pública,Saúde
+USCS,Metropolitana de São Paulo,São Caetano do Sul,Secretariado,Humanas
+USCS,Metropolitana de São Paulo,São Caetano do Sul,Segurança Pública,Humanas
+Unesp,Ribeirão Preto ,Franca,Serviço Social,Humanas
+PUC-SP,Metropolitana de São Paulo,São Paulo,Serviço Social,Humanas
+PUC-SP,Campinas,Campinas,Serviço Social,Humanas
+Unifesp,Metropolitana de São Paulo,Santos,Serviço Social,Humanas
+Unifesp,Metropolitana de São Paulo,Santos,Serviço Social,Humanas
+Unesp,Bauru,Bauru,Sistemas de Informação,Exatas
+USP-Leste,Metropolitana de São Paulo,São Paulo,Sistemas de Informação,Exatas
+UNITAU,Vale do Paraíba Paulista,Taubaté,Sistemas de Informação,Exatas
+PUC-SP,Campinas,Campinas,Sistemas de Informação,Exatas
+USP,Araraquara,São Carlos,Sistemas de Informação,Exatas
+Unicamp,Piracicaba,Limeira,Sistemas de Informação,Exatas
+PUC-SP,Campinas,Campinas,Tecnologia da Informação para Negócios Digitais – Bacharelado,Exatas
+Unifesp,Metropolitana de São Paulo,São Paulo,Tecnologia Em Informática Em Saúde,Exatas
+Unifesp,Metropolitana de São Paulo,São Paulo,Tecnologia Em Radiologia,Exatas
+Unicamp,Piracicaba,Limeira,Tecnologia em Saneamento Ambiental,Exatas
+Unifesp,Metropolitana de São Paulo,São Paulo,Tecnologia Oftálmica,Exatas
+Unifesp,Metropolitana de São Paulo,São Paulo,Tecnologia Oftálmica,Exatas
+PUC-SP,Metropolitana de São Paulo,São Paulo,Teologia,Humanas
+PUC-SP,Campinas,Campinas,Teologia,Humanas
+Unesp,Marília,Marília,Terapia Ocupacional,Saúde
+USP,Metropolitana de São Paulo,São Paulo,Terapia Ocupacional,Saúde
+USP,Ribeirão Preto,Ribeirão Preto,Terapia Ocupacional,Saúde
+UFSCar,Araraquara,São Carlos,Terapia Ocupacional,Saúde
+USCS,Metropolitana de São Paulo,São Caetano do Sul,Terapia Ocupacional,Saúde
+PUC-SP,Campinas,Campinas,Terapia Ocupacional,Saúde
+Unifesp,Metropolitana de São Paulo,Santos,Terapia Ocupacional,Saúde
+USP-Leste,Metropolitana de São Paulo,São Paulo,Têxtil e Moda,Humanas
+UFSCar,Araraquara,São Carlos,Tradução e Interpretação em Língua Brasileira de Sinais,Humanas
+Unesp,Presidente Prudente ,Rosana,Turismo,Humanas
+USP,Metropolitana de São Paulo,São Paulo,Turismo,Humanas
+UFSCar,Macro Metropolitana Paulista,Sorocaba,Turismo,Humanas
+PUC-SP,Campinas,Campinas,Turismo,Humanas
+Unesp,Bauru,Botucatu,Zootecnia,Biológicas
+Unesp,Presidente Prudente ,Dracena,Zootecnia,Biológicas
+Unesp,Araçatuba,Ilha Solteira,Zootecnia,Biológicas
+Unesp,Ribeirão Preto ,Jaboticabal,Zootecnia,Biológicas
+USP,Campinas,Pirassununga,Zootecnia,Biológicas

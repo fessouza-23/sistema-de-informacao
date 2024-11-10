@@ -1,0 +1,1291 @@
+COD_IBGE,MUNICIPIO,FAIXA_IDADE,POPULACAO,NM_MESORREGIÃO
+3500105,Adamantina,de 15 a 19 anos,1837,Presidente Prudente
+3500105,Adamantina,de 20 a 24 anos,2116,Presidente Prudente
+3500204,Adolfo,de 15 a 19 anos,212,São José do Rio Preto
+3500204,Adolfo,de 20 a 24 anos,233,São José do Rio Preto
+3500303,Aguaí,de 15 a 19 anos,2377,Campinas
+3500303,Aguaí,de 20 a 24 anos,2758,Campinas
+3500402,Águas da Prata,de 15 a 19 anos,451,Campinas
+3500402,Águas da Prata,de 20 a 24 anos,522,Campinas
+3500501,Águas de Lindóia,de 15 a 19 anos,1077,Campinas
+3500501,Águas de Lindóia,de 20 a 24 anos,1299,Campinas
+3500550,Águas de Santa Bárbara,de 15 a 19 anos,380,Bauru
+3500550,Águas de Santa Bárbara,de 20 a 24 anos,491,Bauru
+3500600,Águas de São Pedro,de 15 a 19 anos,157,Piracicaba
+3500600,Águas de São Pedro,de 20 a 24 anos,220,Piracicaba
+3500709,Agudos,de 15 a 19 anos,2378,Bauru
+3500709,Agudos,de 20 a 24 anos,2797,Bauru
+3500758,Alambari,de 15 a 19 anos,439,Itapetininga
+3500758,Alambari,de 20 a 24 anos,542,Itapetininga
+3500808,Alfredo Marcondes,de 15 a 19 anos,226,Presidente Prudente
+3500808,Alfredo Marcondes,de 20 a 24 anos,260,Presidente Prudente
+3500907,Altair,de 15 a 19 anos,277,São José do Rio Preto
+3500907,Altair,de 20 a 24 anos,307,São José do Rio Preto
+3501004,Altinópolis,de 15 a 19 anos,969,Ribeirão Preto
+3501004,Altinópolis,de 20 a 24 anos,1175,Ribeirão Preto
+3501103,Alto Alegre,de 15 a 19 anos,216,Araçatuba
+3501103,Alto Alegre,de 20 a 24 anos,254,Araçatuba
+3501152,Alumínio,de 15 a 19 anos,1358,Macro Metropolitana Paulista
+3501152,Alumínio,de 20 a 24 anos,1464,Macro Metropolitana Paulista
+3501202,Álvares Florence,de 15 a 19 anos,177,São José do Rio Preto
+3501202,Álvares Florence,de 20 a 24 anos,231,São José do Rio Preto
+3501301,Álvares Machado,de 15 a 19 anos,1614,Presidente Prudente
+3501301,Álvares Machado,de 20 a 24 anos,1828,Presidente Prudente
+3501400,Álvaro de Carvalho,de 15 a 19 anos,266,Marília
+3501400,Álvaro de Carvalho,de 20 a 24 anos,570,Marília
+3501509,Alvinlândia,de 15 a 19 anos,212,Marília
+3501509,Alvinlândia,de 20 a 24 anos,270,Marília
+3501608,Americana,de 15 a 19 anos,13098,Campinas
+3501608,Americana,de 20 a 24 anos,15793,Campinas
+3501707,Américo Brasiliense,de 15 a 19 anos,2703,Araraquara
+3501707,Américo Brasiliense,de 20 a 24 anos,3250,Araraquara
+3501806,Américo de Campos,de 15 a 19 anos,336,São José do Rio Preto
+3501806,Américo de Campos,de 20 a 24 anos,422,São José do Rio Preto
+3501905,Amparo,de 15 a 19 anos,4003,Campinas
+3501905,Amparo,de 20 a 24 anos,4737,Campinas
+3502002,Analândia,de 15 a 19 anos,332,Araraquara
+3502002,Analândia,de 20 a 24 anos,377,Araraquara
+3502101,Andradina,de 15 a 19 anos,3228,Araçatuba
+3502101,Andradina,de 20 a 24 anos,3912,Araçatuba
+3502200,Angatuba,de 15 a 19 anos,1717,Itapetininga
+3502200,Angatuba,de 20 a 24 anos,1979,Itapetininga
+3502309,Anhembi,de 15 a 19 anos,513,Bauru
+3502309,Anhembi,de 20 a 24 anos,609,Bauru
+3502408,Anhumas,de 15 a 19 anos,266,Presidente Prudente
+3502408,Anhumas,de 20 a 24 anos,324,Presidente Prudente
+3502507,Aparecida,de 15 a 19 anos,2222,Vale do Paraíba Paulista
+3502507,Aparecida,de 20 a 24 anos,2465,Vale do Paraíba Paulista
+3502606,Aparecida d'Oeste,de 15 a 19 anos,238,São José do Rio Preto
+3502606,Aparecida d'Oeste,de 20 a 24 anos,296,São José do Rio Preto
+3502705,Apiaí,de 15 a 19 anos,1891,Itapetininga
+3502705,Apiaí,de 20 a 24 anos,2322,Itapetininga
+3502754,Araçariguama,de 15 a 19 anos,1626,Macro Metropolitana Paulista
+3502754,Araçariguama,de 20 a 24 anos,1847,Macro Metropolitana Paulista
+3502804,Araçatuba,de 15 a 19 anos,10691,Araçatuba
+3502804,Araçatuba,de 20 a 24 anos,12884,Araçatuba
+3502903,Araçoiaba da Serra,de 15 a 19 anos,2142,Macro Metropolitana Paulista
+3502903,Araçoiaba da Serra,de 20 a 24 anos,2751,Macro Metropolitana Paulista
+3503000,Aramina,de 15 a 19 anos,319,Ribeirão Preto
+3503000,Aramina,de 20 a 24 anos,391,Ribeirão Preto
+3503109,Arandu,de 15 a 19 anos,412,Bauru
+3503109,Arandu,de 20 a 24 anos,516,Bauru
+3503158,Arapeí,de 15 a 19 anos,172,Vale do Paraíba Paulista
+3503158,Arapeí,de 20 a 24 anos,200,Vale do Paraíba Paulista
+3503208,Araraquara,de 15 a 19 anos,12668,Araraquara
+3503208,Araraquara,de 20 a 24 anos,15776,Araraquara
+3503307,Araras,de 15 a 19 anos,7661,Piracicaba
+3503307,Araras,de 20 a 24 anos,9473,Piracicaba
+3503356,Arco-Íris,de 15 a 19 anos,101,Marília
+3503356,Arco-Íris,de 20 a 24 anos,118,Marília
+3503406,Arealva,de 15 a 19 anos,505,Bauru
+3503406,Arealva,de 20 a 24 anos,603,Bauru
+3503505,Areias,de 15 a 19 anos,297,Vale do Paraíba Paulista
+3503505,Areias,de 20 a 24 anos,345,Vale do Paraíba Paulista
+3503604,Areiópolis,de 15 a 19 anos,828,Bauru
+3503604,Areiópolis,de 20 a 24 anos,892,Bauru
+3503703,Ariranha,de 15 a 19 anos,589,São José do Rio Preto
+3503703,Ariranha,de 20 a 24 anos,692,São José do Rio Preto
+3503802,Artur Nogueira,de 15 a 19 anos,3617,Campinas
+3503802,Artur Nogueira,de 20 a 24 anos,4328,Campinas
+3503901,Arujá,de 15 a 19 anos,6456,Metropolitana de São Paulo
+3503901,Arujá,de 20 a 24 anos,7790,Metropolitana de São Paulo
+3503950,Aspásia,de 15 a 19 anos,101,São José do Rio Preto
+3503950,Aspásia,de 20 a 24 anos,116,São José do Rio Preto
+3504008,Assis,de 15 a 19 anos,5964,Assis
+3504008,Assis,de 20 a 24 anos,7314,Assis
+3504107,Atibaia,de 15 a 19 anos,9074,Macro Metropolitana Paulista
+3504107,Atibaia,de 20 a 24 anos,10709,Macro Metropolitana Paulista
+3504206,Auriflama,de 15 a 19 anos,832,São José do Rio Preto
+3504206,Auriflama,de 20 a 24 anos,941,São José do Rio Preto
+3504305,Avaí,de 15 a 19 anos,361,Bauru
+3504305,Avaí,de 20 a 24 anos,444,Bauru
+3504404,Avanhandava,de 15 a 19 anos,792,Araçatuba
+3504404,Avanhandava,de 20 a 24 anos,1328,Araçatuba
+3504503,Avaré,de 15 a 19 anos,5765,Bauru
+3504503,Avaré,de 20 a 24 anos,6792,Bauru
+3504602,Bady Bassitt,de 15 a 19 anos,1004,São José do Rio Preto
+3504602,Bady Bassitt,de 20 a 24 anos,1277,São José do Rio Preto
+3504701,Balbinos,de 15 a 19 anos,115,Bauru
+3504701,Balbinos,de 20 a 24 anos,590,Bauru
+3504800,Bálsamo,de 15 a 19 anos,444,São José do Rio Preto
+3504800,Bálsamo,de 20 a 24 anos,563,São José do Rio Preto
+3504909,Bananal,de 15 a 19 anos,708,Vale do Paraíba Paulista
+3504909,Bananal,de 20 a 24 anos,846,Vale do Paraíba Paulista
+3505005,Barão de Antonina,de 15 a 19 anos,254,Itapetininga
+3505005,Barão de Antonina,de 20 a 24 anos,297,Itapetininga
+3505104,Barbosa,de 15 a 19 anos,507,Araçatuba
+3505104,Barbosa,de 20 a 24 anos,644,Araçatuba
+3505203,Bariri,de 15 a 19 anos,2218,Bauru
+3505203,Bariri,de 20 a 24 anos,2676,Bauru
+3505302,Barra Bonita,de 15 a 19 anos,1921,Bauru
+3505302,Barra Bonita,de 20 a 24 anos,2259,Bauru
+3505351,Barra do Chapéu,de 15 a 19 anos,429,Itapetininga
+3505351,Barra do Chapéu,de 20 a 24 anos,538,Itapetininga
+3505401,Barra do Turvo,de 15 a 19 anos,641,Litoral Sul Paulista
+3505401,Barra do Turvo,de 20 a 24 anos,759,Litoral Sul Paulista
+3505500,Barretos,de 15 a 19 anos,7145,Ribeirão Preto
+3505500,Barretos,de 20 a 24 anos,8246,Ribeirão Preto
+3505609,Barrinha,de 15 a 19 anos,2378,Ribeirão Preto
+3505609,Barrinha,de 20 a 24 anos,2630,Ribeirão Preto
+3505708,Barueri,de 15 a 19 anos,17854,Metropolitana de São Paulo
+3505708,Barueri,de 20 a 24 anos,20446,Metropolitana de São Paulo
+3505807,Bastos,de 15 a 19 anos,1339,Marília
+3505807,Bastos,de 20 a 24 anos,1476,Marília
+3505906,Batatais,de 15 a 19 anos,3716,Ribeirão Preto
+3505906,Batatais,de 20 a 24 anos,4389,Ribeirão Preto
+3506003,Bauru,de 15 a 19 anos,22376,Bauru
+3506003,Bauru,de 20 a 24 anos,26674,Bauru
+3506102,Bebedouro,de 15 a 19 anos,4537,Ribeirão Preto
+3506102,Bebedouro,de 20 a 24 anos,5282,Ribeirão Preto
+3506201,Bento de Abreu,de 15 a 19 anos,189,Araçatuba
+3506201,Bento de Abreu,de 20 a 24 anos,230,Araçatuba
+3506300,Bernardino de Campos,de 15 a 19 anos,660,Assis
+3506300,Bernardino de Campos,de 20 a 24 anos,782,Assis
+3506359,Bertioga,de 15 a 19 anos,4939,Metropolitana de São Paulo
+3506359,Bertioga,de 20 a 24 anos,5726,Metropolitana de São Paulo
+3506409,Bilac,de 15 a 19 anos,417,Araçatuba
+3506409,Bilac,de 20 a 24 anos,564,Araçatuba
+3506508,Birigui,de 15 a 19 anos,7168,Araçatuba
+3506508,Birigui,de 20 a 24 anos,8726,Araçatuba
+3506607,Biritiba Mirim,de 15 a 19 anos,2415,Metropolitana de São Paulo
+3506607,Biritiba Mirim,de 20 a 24 anos,2849,Metropolitana de São Paulo
+3506706,Boa Esperança do Sul,de 15 a 19 anos,1028,Araraquara
+3506706,Boa Esperança do Sul,de 20 a 24 anos,1218,Araraquara
+3506805,Bocaina,de 15 a 19 anos,800,Bauru
+3506805,Bocaina,de 20 a 24 anos,953,Bauru
+3506904,Bofete,de 15 a 19 anos,810,Bauru
+3506904,Bofete,de 20 a 24 anos,989,Bauru
+3507001,Boituva,de 15 a 19 anos,3827,Itapetininga
+3507001,Boituva,de 20 a 24 anos,4492,Itapetininga
+3507100,Bom Jesus dos Perdões,de 15 a 19 anos,1772,Macro Metropolitana Paulista
+3507100,Bom Jesus dos Perdões,de 20 a 24 anos,2106,Macro Metropolitana Paulista
+3507159,Bom Sucesso de Itararé,de 15 a 19 anos,322,Itapetininga
+3507159,Bom Sucesso de Itararé,de 20 a 24 anos,385,Itapetininga
+3507209,Borá,de 15 a 19 anos,44,Assis
+3507209,Borá,de 20 a 24 anos,58,Assis
+3507308,Boracéia,de 15 a 19 anos,309,Bauru
+3507308,Boracéia,de 20 a 24 anos,373,Bauru
+3507407,Borborema,de 15 a 19 anos,969,Araraquara
+3507407,Borborema,de 20 a 24 anos,1083,Araraquara
+3507456,Borebi,de 15 a 19 anos,187,Bauru
+3507456,Borebi,de 20 a 24 anos,222,Bauru
+3507506,Botucatu,de 15 a 19 anos,8914,Bauru
+3507506,Botucatu,de 20 a 24 anos,10516,Bauru
+3507605,Bragança Paulista,de 15 a 19 anos,10015,Macro Metropolitana Paulista
+3507605,Bragança Paulista,de 20 a 24 anos,12638,Macro Metropolitana Paulista
+3507704,Braúna,de 15 a 19 anos,335,Araçatuba
+3507704,Braúna,de 20 a 24 anos,414,Araçatuba
+3507753,Brejo Alegre,de 15 a 19 anos,186,Araçatuba
+3507753,Brejo Alegre,de 20 a 24 anos,229,Araçatuba
+3507803,Brodowski,de 15 a 19 anos,1599,Ribeirão Preto
+3507803,Brodowski,de 20 a 24 anos,1977,Ribeirão Preto
+3507902,Brotas,de 15 a 19 anos,1563,Piracicaba
+3507902,Brotas,de 20 a 24 anos,1877,Piracicaba
+3508009,Buri,de 15 a 19 anos,1627,Itapetininga
+3508009,Buri,de 20 a 24 anos,1757,Itapetininga
+3508108,Buritama,de 15 a 19 anos,976,Araçatuba
+3508108,Buritama,de 20 a 24 anos,1170,Araçatuba
+3508207,Buritizal,de 15 a 19 anos,257,Ribeirão Preto
+3508207,Buritizal,de 20 a 24 anos,289,Ribeirão Preto
+3508306,Cabrália Paulista,de 15 a 19 anos,313,Bauru
+3508306,Cabrália Paulista,de 20 a 24 anos,348,Bauru
+3508405,Cabreúva,de 15 a 19 anos,3702,Macro Metropolitana Paulista
+3508405,Cabreúva,de 20 a 24 anos,4296,Macro Metropolitana Paulista
+3508504,Caçapava,de 15 a 19 anos,5868,Vale do Paraíba Paulista
+3508504,Caçapava,de 20 a 24 anos,6730,Vale do Paraíba Paulista
+3508603,Cachoeira Paulista,de 15 a 19 anos,2124,Vale do Paraíba Paulista
+3508603,Cachoeira Paulista,de 20 a 24 anos,2409,Vale do Paraíba Paulista
+3508702,Caconde,de 15 a 19 anos,1354,Campinas
+3508702,Caconde,de 20 a 24 anos,1615,Campinas
+3508801,Cafelândia,de 15 a 19 anos,1041,Bauru
+3508801,Cafelândia,de 20 a 24 anos,1259,Bauru
+3508900,Caiabu,de 15 a 19 anos,241,Presidente Prudente
+3508900,Caiabu,de 20 a 24 anos,291,Presidente Prudente
+3509007,Caieiras,de 15 a 19 anos,7015,Metropolitana de São Paulo
+3509007,Caieiras,de 20 a 24 anos,8535,Metropolitana de São Paulo
+3509106,Caiuá,de 15 a 19 anos,385,Presidente Prudente
+3509106,Caiuá,de 20 a 24 anos,517,Presidente Prudente
+3509205,Cajamar,de 15 a 19 anos,5558,Metropolitana de São Paulo
+3509205,Cajamar,de 20 a 24 anos,6560,Metropolitana de São Paulo
+3509254,Cajati,de 15 a 19 anos,2322,Litoral Sul Paulista
+3509254,Cajati,de 20 a 24 anos,2692,Litoral Sul Paulista
+3509304,Cajobi,de 15 a 19 anos,628,São José do Rio Preto
+3509304,Cajobi,de 20 a 24 anos,693,São José do Rio Preto
+3509403,Cajuru,de 15 a 19 anos,1720,Ribeirão Preto
+3509403,Cajuru,de 20 a 24 anos,2058,Ribeirão Preto
+3509452,Campina do Monte Alegre,de 15 a 19 anos,436,Itapetininga
+3509452,Campina do Monte Alegre,de 20 a 24 anos,490,Itapetininga
+3509502,Campinas,de 15 a 19 anos,68504,Campinas
+3509502,Campinas,de 20 a 24 anos,84245,Campinas
+3509601,Campo Limpo Paulista,de 15 a 19 anos,5582,Macro Metropolitana Paulista
+3509601,Campo Limpo Paulista,de 20 a 24 anos,6500,Macro Metropolitana Paulista
+3509700,Campos do Jordão,de 15 a 19 anos,3503,Vale do Paraíba Paulista
+3509700,Campos do Jordão,de 20 a 24 anos,4083,Vale do Paraíba Paulista
+3509809,Campos Novos Paulista,de 15 a 19 anos,362,Assis
+3509809,Campos Novos Paulista,de 20 a 24 anos,408,Assis
+3509908,Cananéia,de 15 a 19 anos,930,Litoral Sul Paulista
+3509908,Cananéia,de 20 a 24 anos,1113,Litoral Sul Paulista
+3509957,Canas,de 15 a 19 anos,391,Vale do Paraíba Paulista
+3509957,Canas,de 20 a 24 anos,434,Vale do Paraíba Paulista
+3510005,Cândido Mota,de 15 a 19 anos,1851,Assis
+3510005,Cândido Mota,de 20 a 24 anos,2160,Assis
+3510104,Cândido Rodrigues,de 15 a 19 anos,150,Ribeirão Preto
+3510104,Cândido Rodrigues,de 20 a 24 anos,153,Ribeirão Preto
+3510153,Canitar,de 15 a 19 anos,455,Assis
+3510153,Canitar,de 20 a 24 anos,498,Assis
+3510203,Capão Bonito,de 15 a 19 anos,3510,Itapetininga
+3510203,Capão Bonito,de 20 a 24 anos,3982,Itapetininga
+3510302,Capela do Alto,de 15 a 19 anos,1541,Macro Metropolitana Paulista
+3510302,Capela do Alto,de 20 a 24 anos,1860,Macro Metropolitana Paulista
+3510401,Capivari,de 15 a 19 anos,3687,Piracicaba
+3510401,Capivari,de 20 a 24 anos,4196,Piracicaba
+3510500,Caraguatatuba,de 15 a 19 anos,8198,Vale do Paraíba Paulista
+3510500,Caraguatatuba,de 20 a 24 anos,9701,Vale do Paraíba Paulista
+3510609,Carapicuíba,de 15 a 19 anos,27484,Metropolitana de São Paulo
+3510609,Carapicuíba,de 20 a 24 anos,30009,Metropolitana de São Paulo
+3510708,Cardoso,de 15 a 19 anos,720,São José do Rio Preto
+3510708,Cardoso,de 20 a 24 anos,808,São José do Rio Preto
+3510807,Casa Branca,de 15 a 19 anos,1794,Campinas
+3510807,Casa Branca,de 20 a 24 anos,2420,Campinas
+3510906,Cássia dos Coqueiros,de 15 a 19 anos,169,Ribeirão Preto
+3510906,Cássia dos Coqueiros,de 20 a 24 anos,189,Ribeirão Preto
+3511003,Castilho,de 15 a 19 anos,1354,Araçatuba
+3511003,Castilho,de 20 a 24 anos,1701,Araçatuba
+3511102,Catanduva,de 15 a 19 anos,6443,São José do Rio Preto
+3511102,Catanduva,de 20 a 24 anos,7744,São José do Rio Preto
+3511201,Catiguá,de 15 a 19 anos,479,São José do Rio Preto
+3511201,Catiguá,de 20 a 24 anos,515,São José do Rio Preto
+3511300,Cedral,de 15 a 19 anos,525,São José do Rio Preto
+3511300,Cedral,de 20 a 24 anos,645,São José do Rio Preto
+3511409,Cerqueira César,de 15 a 19 anos,1368,Bauru
+3511409,Cerqueira César,de 20 a 24 anos,1533,Bauru
+3511508,Cerquilho,de 15 a 19 anos,2840,Itapetininga
+3511508,Cerquilho,de 20 a 24 anos,3594,Itapetininga
+3511607,Cesário Lange,de 15 a 19 anos,1098,Itapetininga
+3511607,Cesário Lange,de 20 a 24 anos,1317,Itapetininga
+3511706,Charqueada,de 15 a 19 anos,1119,Piracicaba
+3511706,Charqueada,de 20 a 24 anos,1332,Piracicaba
+3511904,Clementina,de 15 a 19 anos,553,Araçatuba
+3511904,Clementina,de 20 a 24 anos,566,Araçatuba
+3512001,Colina,de 15 a 19 anos,1106,Ribeirão Preto
+3512001,Colina,de 20 a 24 anos,1284,Ribeirão Preto
+3512100,Colômbia,de 15 a 19 anos,390,Ribeirão Preto
+3512100,Colômbia,de 20 a 24 anos,454,Ribeirão Preto
+3512209,Conchal,de 15 a 19 anos,1902,Piracicaba
+3512209,Conchal,de 20 a 24 anos,2184,Piracicaba
+3512308,Conchas,de 15 a 19 anos,1185,Bauru
+3512308,Conchas,de 20 a 24 anos,1308,Bauru
+3512407,Cordeirópolis,de 15 a 19 anos,1596,Piracicaba
+3512407,Cordeirópolis,de 20 a 24 anos,1883,Piracicaba
+3512506,Coroados,de 15 a 19 anos,357,Araçatuba
+3512506,Coroados,de 20 a 24 anos,447,Araçatuba
+3512605,Coronel Macedo,de 15 a 19 anos,341,Itapetininga
+3512605,Coronel Macedo,de 20 a 24 anos,425,Itapetininga
+3512704,Corumbataí,de 15 a 19 anos,275,Piracicaba
+3512704,Corumbataí,de 20 a 24 anos,339,Piracicaba
+3512803,Cosmópolis,de 15 a 19 anos,4988,Campinas
+3512803,Cosmópolis,de 20 a 24 anos,5707,Campinas
+3512902,Cosmorama,de 15 a 19 anos,388,São José do Rio Preto
+3512902,Cosmorama,de 20 a 24 anos,471,São José do Rio Preto
+3513009,Cotia,de 15 a 19 anos,17612,Metropolitana de São Paulo
+3513009,Cotia,de 20 a 24 anos,21058,Metropolitana de São Paulo
+3513108,Cravinhos,de 15 a 19 anos,2274,Ribeirão Preto
+3513108,Cravinhos,de 20 a 24 anos,2709,Ribeirão Preto
+3513207,Cristais Paulista,de 15 a 19 anos,571,Ribeirão Preto
+3513207,Cristais Paulista,de 20 a 24 anos,662,Ribeirão Preto
+3513306,Cruzália,de 15 a 19 anos,112,Assis
+3513306,Cruzália,de 20 a 24 anos,145,Assis
+3513405,Cruzeiro,de 15 a 19 anos,5124,Vale do Paraíba Paulista
+3513405,Cruzeiro,de 20 a 24 anos,5860,Vale do Paraíba Paulista
+3513504,Cubatão,de 15 a 19 anos,9328,Metropolitana de São Paulo
+3513504,Cubatão,de 20 a 24 anos,10096,Metropolitana de São Paulo
+3513603,Cunha,de 15 a 19 anos,1470,Vale do Paraíba Paulista
+3513603,Cunha,de 20 a 24 anos,1775,Vale do Paraíba Paulista
+3513702,Descalvado,de 15 a 19 anos,1898,Araraquara
+3513702,Descalvado,de 20 a 24 anos,2300,Araraquara
+3513801,Diadema,de 15 a 19 anos,27620,Metropolitana de São Paulo
+3513801,Diadema,de 20 a 24 anos,32335,Metropolitana de São Paulo
+3513850,Dirce Reis,de 15 a 19 anos,92,São José do Rio Preto
+3513850,Dirce Reis,de 20 a 24 anos,102,São José do Rio Preto
+3513900,Divinolândia,de 15 a 19 anos,571,Campinas
+3513900,Divinolândia,de 20 a 24 anos,711,Campinas
+3514007,Dobrada,de 15 a 19 anos,649,Araraquara
+3514007,Dobrada,de 20 a 24 anos,718,Araraquara
+3514106,Dois Córregos,de 15 a 19 anos,1765,Bauru
+3514106,Dois Córregos,de 20 a 24 anos,1938,Bauru
+3514205,Dolcinópolis,de 15 a 19 anos,124,São José do Rio Preto
+3514205,Dolcinópolis,de 20 a 24 anos,137,São José do Rio Preto
+3514304,Dourado,de 15 a 19 anos,499,Araraquara
+3514304,Dourado,de 20 a 24 anos,553,Araraquara
+3514403,Dracena,de 15 a 19 anos,2405,Presidente Prudente
+3514403,Dracena,de 20 a 24 anos,3271,Presidente Prudente
+3514502,Duartina,de 15 a 19 anos,728,Bauru
+3514502,Duartina,de 20 a 24 anos,789,Bauru
+3514601,Dumont,de 15 a 19 anos,646,Ribeirão Preto
+3514601,Dumont,de 20 a 24 anos,771,Ribeirão Preto
+3514700,Echaporã,de 15 a 19 anos,377,Marília
+3514700,Echaporã,de 20 a 24 anos,465,Marília
+3514809,Eldorado,de 15 a 19 anos,1269,Litoral Sul Paulista
+3514809,Eldorado,de 20 a 24 anos,1557,Litoral Sul Paulista
+3514908,Elias Fausto,de 15 a 19 anos,1200,Campinas
+3514908,Elias Fausto,de 20 a 24 anos,1437,Campinas
+3514924,Elisiário,de 15 a 19 anos,188,São José do Rio Preto
+3514924,Elisiário,de 20 a 24 anos,249,São José do Rio Preto
+3514957,Embaúba,de 15 a 19 anos,149,São José do Rio Preto
+3514957,Embaúba,de 20 a 24 anos,151,São José do Rio Preto
+3515004,Embu,de 15 a 19 anos,19484,Metropolitana de São Paulo
+3515004,Embu,de 20 a 24 anos,22313,Metropolitana de São Paulo
+3515103,Embu-Guaçu,de 15 a 19 anos,5072,Metropolitana de São Paulo
+3515103,Embu-Guaçu,de 20 a 24 anos,6002,Metropolitana de São Paulo
+3515129,Emilianópolis,de 15 a 19 anos,182,Presidente Prudente
+3515129,Emilianópolis,de 20 a 24 anos,204,Presidente Prudente
+3515152,Engenheiro Coelho,de 15 a 19 anos,1529,Campinas
+3515152,Engenheiro Coelho,de 20 a 24 anos,1770,Campinas
+3515186,Espírito Santo do Pinhal,de 15 a 19 anos,2511,Campinas
+3515186,Espírito Santo do Pinhal,de 20 a 24 anos,3082,Campinas
+3515194,Espírito Santo do Turvo,de 15 a 19 anos,367,Assis
+3515194,Espírito Santo do Turvo,de 20 a 24 anos,399,Assis
+3515202,Estrela d'Oeste,de 15 a 19 anos,464,São José do Rio Preto
+3515202,Estrela d'Oeste,de 20 a 24 anos,521,São José do Rio Preto
+3515301,Estrela do Norte,de 15 a 19 anos,174,Presidente Prudente
+3515301,Estrela do Norte,de 20 a 24 anos,201,Presidente Prudente
+3515350,Euclides da Cunha Paulista,de 15 a 19 anos,707,Presidente Prudente
+3515350,Euclides da Cunha Paulista,de 20 a 24 anos,843,Presidente Prudente
+3515400,Fartura,de 15 a 19 anos,998,Assis
+3515400,Fartura,de 20 a 24 anos,1180,Assis
+3515509,Fernandópolis,de 15 a 19 anos,3678,São José do Rio Preto
+3515509,Fernandópolis,de 20 a 24 anos,4364,São José do Rio Preto
+3515608,Fernando Prestes,de 15 a 19 anos,310,Ribeirão Preto
+3515608,Fernando Prestes,de 20 a 24 anos,354,Ribeirão Preto
+3515657,Fernão,de 15 a 19 anos,112,Marília
+3515657,Fernão,de 20 a 24 anos,136,Marília
+3515707,Ferraz de Vasconcelos,de 15 a 19 anos,14156,Metropolitana de São Paulo
+3515707,Ferraz de Vasconcelos,de 20 a 24 anos,17114,Metropolitana de São Paulo
+3515806,Flora Rica,de 15 a 19 anos,80,Presidente Prudente
+3515806,Flora Rica,de 20 a 24 anos,121,Presidente Prudente
+3515905,Floreal,de 15 a 19 anos,144,São José do Rio Preto
+3515905,Floreal,de 20 a 24 anos,169,São José do Rio Preto
+3516002,Flórida Paulista,de 15 a 19 anos,697,Presidente Prudente
+3516002,Flórida Paulista,de 20 a 24 anos,1065,Presidente Prudente
+3516101,Florínia,de 15 a 19 anos,176,Assis
+3516101,Florínia,de 20 a 24 anos,193,Assis
+3516200,Franca,de 15 a 19 anos,22695,Ribeirão Preto
+3516200,Franca,de 20 a 24 anos,25870,Ribeirão Preto
+3516309,Francisco Morato,de 15 a 19 anos,13795,Metropolitana de São Paulo
+3516309,Francisco Morato,de 20 a 24 anos,15938,Metropolitana de São Paulo
+3516408,Franco da Rocha,de 15 a 19 anos,10910,Metropolitana de São Paulo
+3516408,Franco da Rocha,de 20 a 24 anos,14501,Metropolitana de São Paulo
+3516507,Gabriel Monteiro,de 15 a 19 anos,143,Araçatuba
+3516507,Gabriel Monteiro,de 20 a 24 anos,159,Araçatuba
+3516606,Gália,de 15 a 19 anos,387,Marília
+3516606,Gália,de 20 a 24 anos,466,Marília
+3516705,Garça,de 15 a 19 anos,2657,Marília
+3516705,Garça,de 20 a 24 anos,3048,Marília
+3516804,Gastão Vidigal,de 15 a 19 anos,283,São José do Rio Preto
+3516804,Gastão Vidigal,de 20 a 24 anos,297,São José do Rio Preto
+3516853,Gavião Peixoto,de 15 a 19 anos,324,Araraquara
+3516853,Gavião Peixoto,de 20 a 24 anos,344,Araraquara
+3516903,General Salgado,de 15 a 19 anos,594,São José do Rio Preto
+3516903,General Salgado,de 20 a 24 anos,690,São José do Rio Preto
+3517000,Getulina,de 15 a 19 anos,673,Bauru
+3517000,Getulina,de 20 a 24 anos,938,Bauru
+3517109,Glicério,de 15 a 19 anos,308,Araçatuba
+3517109,Glicério,de 20 a 24 anos,362,Araçatuba
+3517208,Guaiçara,de 15 a 19 anos,797,Bauru
+3517208,Guaiçara,de 20 a 24 anos,959,Bauru
+3517307,Guaimbê,de 15 a 19 anos,383,Bauru
+3517307,Guaimbê,de 20 a 24 anos,438,Bauru
+3517406,Guaíra,de 15 a 19 anos,2496,Ribeirão Preto
+3517406,Guaíra,de 20 a 24 anos,2853,Ribeirão Preto
+3517505,Guapiaçu,de 15 a 19 anos,1231,São José do Rio Preto
+3517505,Guapiaçu,de 20 a 24 anos,1516,São José do Rio Preto
+3517604,Guapiara,de 15 a 19 anos,1353,Itapetininga
+3517604,Guapiara,de 20 a 24 anos,1600,Itapetininga
+3517703,Guará,de 15 a 19 anos,1621,Ribeirão Preto
+3517703,Guará,de 20 a 24 anos,1666,Ribeirão Preto
+3517802,Guaraçai,de 15 a 19 anos,482,Araçatuba
+3517802,Guaraçai,de 20 a 24 anos,572,Araçatuba
+3517901,Guaraci,de 15 a 19 anos,724,São José do Rio Preto
+3517901,Guaraci,de 20 a 24 anos,807,São José do Rio Preto
+3518008,Guarani d'Oeste,de 15 a 19 anos,121,São José do Rio Preto
+3518008,Guarani d'Oeste,de 20 a 24 anos,132,São José do Rio Preto
+3518107,Guarantã,de 15 a 19 anos,481,Bauru
+3518107,Guarantã,de 20 a 24 anos,543,Bauru
+3518206,Guararapes,de 15 a 19 anos,1884,Araçatuba
+3518206,Guararapes,de 20 a 24 anos,2184,Araçatuba
+3518305,Guararema,de 15 a 19 anos,2007,Metropolitana de São Paulo
+3518305,Guararema,de 20 a 24 anos,2493,Metropolitana de São Paulo
+3518404,Guaratinguetá,de 15 a 19 anos,7137,Vale do Paraíba Paulista
+3518404,Guaratinguetá,de 20 a 24 anos,8383,Vale do Paraíba Paulista
+3518503,Guareí,de 15 a 19 anos,917,Itapetininga
+3518503,Guareí,de 20 a 24 anos,1679,Itapetininga
+3518602,Guariba,de 15 a 19 anos,2699,Ribeirão Preto
+3518602,Guariba,de 20 a 24 anos,2991,Ribeirão Preto
+3518701,Guarujá,de 15 a 19 anos,22531,Metropolitana de São Paulo
+3518701,Guarujá,de 20 a 24 anos,25768,Metropolitana de São Paulo
+3518800,Guarulhos,de 15 a 19 anos,96381,Metropolitana de São Paulo
+3518800,Guarulhos,de 20 a 24 anos,116363,Metropolitana de São Paulo
+3518859,Guatapará,de 15 a 19 anos,552,Ribeirão Preto
+3518859,Guatapará,de 20 a 24 anos,602,Ribeirão Preto
+3518909,Guzolândia,de 15 a 19 anos,349,São José do Rio Preto
+3518909,Guzolândia,de 20 a 24 anos,396,São José do Rio Preto
+3519006,Herculândia,de 15 a 19 anos,652,Marília
+3519006,Herculândia,de 20 a 24 anos,714,Marília
+3519055,Holambra,de 15 a 19 anos,957,Campinas
+3519055,Holambra,de 20 a 24 anos,1138,Campinas
+3519071,Hortolândia,de 15 a 19 anos,15977,Campinas
+3519071,Hortolândia,de 20 a 24 anos,20756,Campinas
+3519105,Iacanga,de 15 a 19 anos,701,Bauru
+3519105,Iacanga,de 20 a 24 anos,858,Bauru
+3519204,Iacri,de 15 a 19 anos,389,Marília
+3519204,Iacri,de 20 a 24 anos,416,Marília
+3519253,Iaras,de 15 a 19 anos,684,Bauru
+3519253,Iaras,de 20 a 24 anos,579,Bauru
+3519303,Ibaté,de 15 a 19 anos,2406,Araraquara
+3519303,Ibaté,de 20 a 24 anos,2800,Araraquara
+3519402,Ibirá,de 15 a 19 anos,688,São José do Rio Preto
+3519402,Ibirá,de 20 a 24 anos,812,São José do Rio Preto
+3519501,Ibirarema,de 15 a 19 anos,525,Assis
+3519501,Ibirarema,de 20 a 24 anos,636,Assis
+3519600,Ibitinga,de 15 a 19 anos,3483,Araraquara
+3519600,Ibitinga,de 20 a 24 anos,4127,Araraquara
+3519709,Ibiúna,de 15 a 19 anos,5637,Macro Metropolitana Paulista
+3519709,Ibiúna,de 20 a 24 anos,6587,Macro Metropolitana Paulista
+3519808,Icém,de 15 a 19 anos,529,São José do Rio Preto
+3519808,Icém,de 20 a 24 anos,582,São José do Rio Preto
+3519907,Iepê,de 15 a 19 anos,494,Assis
+3519907,Iepê,de 20 a 24 anos,583,Assis
+3520004,Igaraçu do Tietê,de 15 a 19 anos,1588,Bauru
+3520004,Igaraçu do Tietê,de 20 a 24 anos,1759,Bauru
+3520103,Igarapava,de 15 a 19 anos,1889,Ribeirão Preto
+3520103,Igarapava,de 20 a 24 anos,2035,Ribeirão Preto
+3520202,Igaratá,de 15 a 19 anos,663,Vale do Paraíba Paulista
+3520202,Igaratá,de 20 a 24 anos,771,Vale do Paraíba Paulista
+3520301,Iguape,de 15 a 19 anos,2306,Litoral Sul Paulista
+3520301,Iguape,de 20 a 24 anos,2571,Litoral Sul Paulista
+3520400,Ilhabela,de 15 a 19 anos,2395,Vale do Paraíba Paulista
+3520400,Ilhabela,de 20 a 24 anos,2696,Vale do Paraíba Paulista
+3520426,Ilha Comprida,de 15 a 19 anos,720,Litoral Sul Paulista
+3520426,Ilha Comprida,de 20 a 24 anos,905,Litoral Sul Paulista
+3520442,Ilha Solteira,de 15 a 19 anos,1380,Araçatuba
+3520442,Ilha Solteira,de 20 a 24 anos,1739,Araçatuba
+3520509,Indaiatuba,de 15 a 19 anos,15363,Campinas
+3520509,Indaiatuba,de 20 a 24 anos,18461,Campinas
+3520608,Indiana,de 15 a 19 anos,269,Presidente Prudente
+3520608,Indiana,de 20 a 24 anos,329,Presidente Prudente
+3520707,Indiaporã,de 15 a 19 anos,208,São José do Rio Preto
+3520707,Indiaporã,de 20 a 24 anos,230,São José do Rio Preto
+3520806,Inúbia Paulista,de 15 a 19 anos,233,Presidente Prudente
+3520806,Inúbia Paulista,de 20 a 24 anos,301,Presidente Prudente
+3520905,Ipaussu,de 15 a 19 anos,1010,Assis
+3520905,Ipaussu,de 20 a 24 anos,1165,Assis
+3521002,Iperó,de 15 a 19 anos,2540,Macro Metropolitana Paulista
+3521002,Iperó,de 20 a 24 anos,3432,Macro Metropolitana Paulista
+3521101,Ipeúna,de 15 a 19 anos,572,Piracicaba
+3521101,Ipeúna,de 20 a 24 anos,662,Piracicaba
+3521150,Ipiguá,de 15 a 19 anos,322,São José do Rio Preto
+3521150,Ipiguá,de 20 a 24 anos,405,São José do Rio Preto
+3521200,Iporanga,de 15 a 19 anos,340,Itapetininga
+3521200,Iporanga,de 20 a 24 anos,429,Itapetininga
+3521309,Ipuã,de 15 a 19 anos,1169,Ribeirão Preto
+3521309,Ipuã,de 20 a 24 anos,1253,Ribeirão Preto
+3521408,Iracemápolis,de 15 a 19 anos,1514,Piracicaba
+3521408,Iracemápolis,de 20 a 24 anos,1770,Piracicaba
+3521507,Irapuã,de 15 a 19 anos,481,São José do Rio Preto
+3521507,Irapuã,de 20 a 24 anos,548,São José do Rio Preto
+3521606,Irapuru,de 15 a 19 anos,443,Presidente Prudente
+3521606,Irapuru,de 20 a 24 anos,729,Presidente Prudente
+3521705,Itaberá,de 15 a 19 anos,1210,Itapetininga
+3521705,Itaberá,de 20 a 24 anos,1509,Itapetininga
+3521804,Itaí,de 15 a 19 anos,1831,Bauru
+3521804,Itaí,de 20 a 24 anos,2217,Bauru
+3521903,Itajobi,de 15 a 19 anos,791,São José do Rio Preto
+3521903,Itajobi,de 20 a 24 anos,936,São José do Rio Preto
+3522000,Itaju,de 15 a 19 anos,253,Bauru
+3522000,Itaju,de 20 a 24 anos,313,Bauru
+3522109,Itanhaém,de 15 a 19 anos,7221,Litoral Sul Paulista
+3522109,Itanhaém,de 20 a 24 anos,8519,Litoral Sul Paulista
+3522158,Itaóca,de 15 a 19 anos,228,Itapetininga
+3522158,Itaóca,de 20 a 24 anos,338,Itapetininga
+3522208,Itapecerica da Serra,de 15 a 19 anos,12519,Metropolitana de São Paulo
+3522208,Itapecerica da Serra,de 20 a 24 anos,15319,Metropolitana de São Paulo
+3522307,Itapetininga,de 15 a 19 anos,11386,Itapetininga
+3522307,Itapetininga,de 20 a 24 anos,14106,Itapetininga
+3522406,Itapeva,de 15 a 19 anos,6919,Itapetininga
+3522406,Itapeva,de 20 a 24 anos,7978,Itapetininga
+3522505,Itapevi,de 15 a 19 anos,18410,Metropolitana de São Paulo
+3522505,Itapevi,de 20 a 24 anos,21649,Metropolitana de São Paulo
+3522604,Itapira,de 15 a 19 anos,4001,Campinas
+3522604,Itapira,de 20 a 24 anos,5021,Campinas
+3522653,Itapirapuã Paulista,de 15 a 19 anos,381,Itapetininga
+3522653,Itapirapuã Paulista,de 20 a 24 anos,425,Itapetininga
+3522703,Itápolis,de 15 a 19 anos,2484,Araraquara
+3522703,Itápolis,de 20 a 24 anos,2877,Araraquara
+3522802,Itaporanga,de 15 a 19 anos,1068,Itapetininga
+3522802,Itaporanga,de 20 a 24 anos,1167,Itapetininga
+3522901,Itapuí,de 15 a 19 anos,951,Bauru
+3522901,Itapuí,de 20 a 24 anos,1083,Bauru
+3523008,Itapura,de 15 a 19 anos,338,Araçatuba
+3523008,Itapura,de 20 a 24 anos,407,Araçatuba
+3523107,Itaquaquecetuba,de 15 a 19 anos,29253,Metropolitana de São Paulo
+3523107,Itaquaquecetuba,de 20 a 24 anos,34060,Metropolitana de São Paulo
+3523206,Itararé,de 15 a 19 anos,3568,Itapetininga
+3523206,Itararé,de 20 a 24 anos,4198,Itapetininga
+3523305,Itariri,de 15 a 19 anos,1451,Litoral Sul Paulista
+3523305,Itariri,de 20 a 24 anos,1716,Litoral Sul Paulista
+3523404,Itatiba,de 15 a 19 anos,7445,Macro Metropolitana Paulista
+3523404,Itatiba,de 20 a 24 anos,9002,Macro Metropolitana Paulista
+3523503,Itatinga,de 15 a 19 anos,1536,Bauru
+3523503,Itatinga,de 20 a 24 anos,1711,Bauru
+3523602,Itirapina,de 15 a 19 anos,1141,Piracicaba
+3523602,Itirapina,de 20 a 24 anos,1882,Piracicaba
+3523701,Itirapuã,de 15 a 19 anos,478,Ribeirão Preto
+3523701,Itirapuã,de 20 a 24 anos,543,Ribeirão Preto
+3523800,Itobi,de 15 a 19 anos,500,Campinas
+3523800,Itobi,de 20 a 24 anos,561,Campinas
+3523909,Itu,de 15 a 19 anos,10874,Macro Metropolitana Paulista
+3523909,Itu,de 20 a 24 anos,12821,Macro Metropolitana Paulista
+3524006,Itupeva,de 15 a 19 anos,4178,Macro Metropolitana Paulista
+3524006,Itupeva,de 20 a 24 anos,4829,Macro Metropolitana Paulista
+3524105,Ituverava,de 15 a 19 anos,2478,Ribeirão Preto
+3524105,Ituverava,de 20 a 24 anos,2948,Ribeirão Preto
+3524204,Jaborandi,de 15 a 19 anos,425,Ribeirão Preto
+3524204,Jaborandi,de 20 a 24 anos,447,Ribeirão Preto
+3524303,Jaboticabal,de 15 a 19 anos,4578,Ribeirão Preto
+3524303,Jaboticabal,de 20 a 24 anos,5171,Ribeirão Preto
+3524402,Jacareí,de 15 a 19 anos,14864,Vale do Paraíba Paulista
+3524402,Jacareí,de 20 a 24 anos,16965,Vale do Paraíba Paulista
+3524501,Jaci,de 15 a 19 anos,442,São José do Rio Preto
+3524501,Jaci,de 20 a 24 anos,553,São José do Rio Preto
+3524600,Jacupiranga,de 15 a 19 anos,1339,Litoral Sul Paulista
+3524600,Jacupiranga,de 20 a 24 anos,1524,Litoral Sul Paulista
+3524709,Jaguariúna,de 15 a 19 anos,3415,Campinas
+3524709,Jaguariúna,de 20 a 24 anos,4179,Campinas
+3524808,Jales,de 15 a 19 anos,2551,São José do Rio Preto
+3524808,Jales,de 20 a 24 anos,3070,São José do Rio Preto
+3524907,Jambeiro,de 15 a 19 anos,432,Vale do Paraíba Paulista
+3524907,Jambeiro,de 20 a 24 anos,509,Vale do Paraíba Paulista
+3525003,Jandira,de 15 a 19 anos,8869,Metropolitana de São Paulo
+3525003,Jandira,de 20 a 24 anos,10347,Metropolitana de São Paulo
+3525102,Jardinópolis,de 15 a 19 anos,3013,Ribeirão Preto
+3525102,Jardinópolis,de 20 a 24 anos,3531,Ribeirão Preto
+3525201,Jarinu,de 15 a 19 anos,2102,Macro Metropolitana Paulista
+3525201,Jarinu,de 20 a 24 anos,2520,Macro Metropolitana Paulista
+3525300,Jaú,de 15 a 19 anos,9245,Bauru
+3525300,Jaú,de 20 a 24 anos,10871,Bauru
+3525409,Jeriquara,de 15 a 19 anos,242,Ribeirão Preto
+3525409,Jeriquara,de 20 a 24 anos,269,Ribeirão Preto
+3525508,Joanópolis,de 15 a 19 anos,795,Macro Metropolitana Paulista
+3525508,Joanópolis,de 20 a 24 anos,868,Macro Metropolitana Paulista
+3525607,João Ramalho,de 15 a 19 anos,303,Presidente Prudente
+3525607,João Ramalho,de 20 a 24 anos,347,Presidente Prudente
+3525706,José Bonifácio,de 15 a 19 anos,2216,São José do Rio Preto
+3525706,José Bonifácio,de 20 a 24 anos,2672,São José do Rio Preto
+3525805,Júlio Mesquita,de 15 a 19 anos,342,Bauru
+3525805,Júlio Mesquita,de 20 a 24 anos,397,Bauru
+3525854,Jumirim,de 15 a 19 anos,232,Piracicaba
+3525854,Jumirim,de 20 a 24 anos,259,Piracicaba
+3525904,Jundiaí,de 15 a 19 anos,23621,Macro Metropolitana Paulista
+3525904,Jundiaí,de 20 a 24 anos,27459,Macro Metropolitana Paulista
+3526001,Junqueirópolis,de 15 a 19 anos,1135,Presidente Prudente
+3526001,Junqueirópolis,de 20 a 24 anos,1575,Presidente Prudente
+3526100,Juquiá,de 15 a 19 anos,1440,Litoral Sul Paulista
+3526100,Juquiá,de 20 a 24 anos,1855,Litoral Sul Paulista
+3526209,Juquitiba,de 15 a 19 anos,2353,Metropolitana de São Paulo
+3526209,Juquitiba,de 20 a 24 anos,2796,Metropolitana de São Paulo
+3526308,Lagoinha,de 15 a 19 anos,312,Vale do Paraíba Paulista
+3526308,Lagoinha,de 20 a 24 anos,379,Vale do Paraíba Paulista
+3526407,Laranjal Paulista,de 15 a 19 anos,1772,Itapetininga
+3526407,Laranjal Paulista,de 20 a 24 anos,2130,Itapetininga
+3526506,Lavínia,de 15 a 19 anos,319,Araçatuba
+3526506,Lavínia,de 20 a 24 anos,1004,Araçatuba
+3526605,Lavrinhas,de 15 a 19 anos,517,Vale do Paraíba Paulista
+3526605,Lavrinhas,de 20 a 24 anos,629,Vale do Paraíba Paulista
+3526704,Leme,de 15 a 19 anos,6696,Piracicaba
+3526704,Leme,de 20 a 24 anos,7784,Piracicaba
+3526803,Lençóis Paulista,de 15 a 19 anos,4401,Bauru
+3526803,Lençóis Paulista,de 20 a 24 anos,5132,Bauru
+3526902,Limeira,de 15 a 19 anos,18306,Piracicaba
+3526902,Limeira,de 20 a 24 anos,21658,Piracicaba
+3527009,Lindóia,de 15 a 19 anos,482,Campinas
+3527009,Lindóia,de 20 a 24 anos,600,Campinas
+3527108,Lins,de 15 a 19 anos,4606,Bauru
+3527108,Lins,de 20 a 24 anos,5379,Bauru
+3527207,Lorena,de 15 a 19 anos,5678,Vale do Paraíba Paulista
+3527207,Lorena,de 20 a 24 anos,6395,Vale do Paraíba Paulista
+3527256,Lourdes,de 15 a 19 anos,127,Araçatuba
+3527256,Lourdes,de 20 a 24 anos,146,Araçatuba
+3527306,Louveira,de 15 a 19 anos,3082,Macro Metropolitana Paulista
+3527306,Louveira,de 20 a 24 anos,3534,Macro Metropolitana Paulista
+3527405,Lucélia,de 15 a 19 anos,1288,Presidente Prudente
+3527405,Lucélia,de 20 a 24 anos,1456,Presidente Prudente
+3527504,Lucianópolis,de 15 a 19 anos,158,Bauru
+3527504,Lucianópolis,de 20 a 24 anos,203,Bauru
+3527603,Luís Antônio,de 15 a 19 anos,1028,Ribeirão Preto
+3527603,Luís Antônio,de 20 a 24 anos,1281,Ribeirão Preto
+3527702,Luiziânia,de 15 a 19 anos,354,Araçatuba
+3527702,Luiziânia,de 20 a 24 anos,435,Araçatuba
+3527801,Lupércio,de 15 a 19 anos,299,Marília
+3527801,Lupércio,de 20 a 24 anos,374,Marília
+3527900,Lutécia,de 15 a 19 anos,178,Assis
+3527900,Lutécia,de 20 a 24 anos,185,Assis
+3528007,Macatuba,de 15 a 19 anos,1150,Bauru
+3528007,Macatuba,de 20 a 24 anos,1304,Bauru
+3528106,Macaubal,de 15 a 19 anos,409,São José do Rio Preto
+3528106,Macaubal,de 20 a 24 anos,478,São José do Rio Preto
+3528205,Macedônia,de 15 a 19 anos,211,São José do Rio Preto
+3528205,Macedônia,de 20 a 24 anos,238,São José do Rio Preto
+3528304,Magda,de 15 a 19 anos,148,São José do Rio Preto
+3528304,Magda,de 20 a 24 anos,194,São José do Rio Preto
+3528403,Mairinque,de 15 a 19 anos,3256,Macro Metropolitana Paulista
+3528403,Mairinque,de 20 a 24 anos,3704,Macro Metropolitana Paulista
+3528502,Mairiporã,de 15 a 19 anos,6872,Metropolitana de São Paulo
+3528502,Mairiporã,de 20 a 24 anos,8933,Metropolitana de São Paulo
+3528601,Manduri,de 15 a 19 anos,619,Assis
+3528601,Manduri,de 20 a 24 anos,704,Assis
+3528700,Marabá Paulista,de 15 a 19 anos,296,Presidente Prudente
+3528700,Marabá Paulista,de 20 a 24 anos,715,Presidente Prudente
+3528809,Maracaí,de 15 a 19 anos,864,Assis
+3528809,Maracaí,de 20 a 24 anos,965,Assis
+3528858,Marapoama,de 15 a 19 anos,170,São José do Rio Preto
+3528858,Marapoama,de 20 a 24 anos,213,São José do Rio Preto
+3528908,Mariápolis,de 15 a 19 anos,227,Presidente Prudente
+3528908,Mariápolis,de 20 a 24 anos,272,Presidente Prudente
+3529005,Marília,de 15 a 19 anos,13673,Marília
+3529005,Marília,de 20 a 24 anos,17031,Marília
+3529104,Marinópolis,de 15 a 19 anos,135,São José do Rio Preto
+3529104,Marinópolis,de 20 a 24 anos,157,São José do Rio Preto
+3529203,Martinópolis,de 15 a 19 anos,1583,Presidente Prudente
+3529203,Martinópolis,de 20 a 24 anos,2162,Presidente Prudente
+3529302,Matão,de 15 a 19 anos,4694,Araraquara
+3529302,Matão,de 20 a 24 anos,5558,Araraquara
+3529401,Mauá,de 15 a 19 anos,31156,Metropolitana de São Paulo
+3529401,Mauá,de 20 a 24 anos,38469,Metropolitana de São Paulo
+3529500,Mendonça,de 15 a 19 anos,281,São José do Rio Preto
+3529500,Mendonça,de 20 a 24 anos,388,São José do Rio Preto
+3529609,Meridiano,de 15 a 19 anos,213,São José do Rio Preto
+3529609,Meridiano,de 20 a 24 anos,254,São José do Rio Preto
+3529658,Mesópolis,de 15 a 19 anos,102,São José do Rio Preto
+3529658,Mesópolis,de 20 a 24 anos,144,São José do Rio Preto
+3529708,Miguelópolis,de 15 a 19 anos,1545,Ribeirão Preto
+3529708,Miguelópolis,de 20 a 24 anos,1607,Ribeirão Preto
+3529807,Mineiros do Tietê,de 15 a 19 anos,847,Bauru
+3529807,Mineiros do Tietê,de 20 a 24 anos,987,Bauru
+3529906,Miracatu,de 15 a 19 anos,1609,Litoral Sul Paulista
+3529906,Miracatu,de 20 a 24 anos,1862,Litoral Sul Paulista
+3530003,Mira Estrela,de 15 a 19 anos,181,São José do Rio Preto
+3530003,Mira Estrela,de 20 a 24 anos,220,São José do Rio Preto
+3530102,Mirandópolis,de 15 a 19 anos,1465,Araçatuba
+3530102,Mirandópolis,de 20 a 24 anos,2044,Araçatuba
+3530201,Mirante do Paranapanema,de 15 a 19 anos,1217,Presidente Prudente
+3530201,Mirante do Paranapanema,de 20 a 24 anos,1426,Presidente Prudente
+3530300,Mirassol,de 15 a 19 anos,3372,São José do Rio Preto
+3530300,Mirassol,de 20 a 24 anos,3983,São José do Rio Preto
+3530409,Mirassolândia,de 15 a 19 anos,300,São José do Rio Preto
+3530409,Mirassolândia,de 20 a 24 anos,367,São José do Rio Preto
+3530508,Mococa,de 15 a 19 anos,4138,Campinas
+3530508,Mococa,de 20 a 24 anos,4725,Campinas
+3530607,Mogi das Cruzes,de 15 a 19 anos,30485,Metropolitana de São Paulo
+3530607,Mogi das Cruzes,de 20 a 24 anos,35750,Metropolitana de São Paulo
+3530706,Mogi-Guaçu,de 15 a 19 anos,9045,Campinas
+3530706,Mogi-Guaçu,de 20 a 24 anos,10841,Campinas
+3530805,Moji Mirim,de 15 a 19 anos,5447,Campinas
+3530805,Moji Mirim,de 20 a 24 anos,6226,Campinas
+3530904,Mombuca,de 15 a 19 anos,230,Piracicaba
+3530904,Mombuca,de 20 a 24 anos,272,Piracicaba
+3531001,Monções,de 15 a 19 anos,114,São José do Rio Preto
+3531001,Monções,de 20 a 24 anos,131,São José do Rio Preto
+3531100,Mongaguá,de 15 a 19 anos,3930,Litoral Sul Paulista
+3531100,Mongaguá,de 20 a 24 anos,5065,Litoral Sul Paulista
+3531209,Monte Alegre do Sul,de 15 a 19 anos,448,Campinas
+3531209,Monte Alegre do Sul,de 20 a 24 anos,551,Campinas
+3531308,Monte Alto,de 15 a 19 anos,2681,Ribeirão Preto
+3531308,Monte Alto,de 20 a 24 anos,3292,Ribeirão Preto
+3531407,Monte Aprazível,de 15 a 19 anos,1362,São José do Rio Preto
+3531407,Monte Aprazível,de 20 a 24 anos,1489,São José do Rio Preto
+3531506,Monte Azul Paulista,de 15 a 19 anos,1058,Ribeirão Preto
+3531506,Monte Azul Paulista,de 20 a 24 anos,1268,Ribeirão Preto
+3531605,Monte Castelo,de 15 a 19 anos,232,Presidente Prudente
+3531605,Monte Castelo,de 20 a 24 anos,288,Presidente Prudente
+3531704,Monteiro Lobato,de 15 a 19 anos,321,Vale do Paraíba Paulista
+3531704,Monteiro Lobato,de 20 a 24 anos,395,Vale do Paraíba Paulista
+3531803,Monte Mor,de 15 a 19 anos,4121,Campinas
+3531803,Monte Mor,de 20 a 24 anos,5196,Campinas
+3531902,Morro Agudo,de 15 a 19 anos,2260,Ribeirão Preto
+3531902,Morro Agudo,de 20 a 24 anos,2484,Ribeirão Preto
+3532009,Morungaba,de 15 a 19 anos,858,Macro Metropolitana Paulista
+3532009,Morungaba,de 20 a 24 anos,1039,Macro Metropolitana Paulista
+3532058,Motuca,de 15 a 19 anos,314,Araraquara
+3532058,Motuca,de 20 a 24 anos,332,Araraquara
+3532108,Murutinga do Sul,de 15 a 19 anos,249,Araçatuba
+3532108,Murutinga do Sul,de 20 a 24 anos,325,Araçatuba
+3532157,Nantes,de 15 a 19 anos,234,Assis
+3532157,Nantes,de 20 a 24 anos,277,Assis
+3532207,Narandiba,de 15 a 19 anos,341,Presidente Prudente
+3532207,Narandiba,de 20 a 24 anos,387,Presidente Prudente
+3532306,Natividade da Serra,de 15 a 19 anos,414,Vale do Paraíba Paulista
+3532306,Natividade da Serra,de 20 a 24 anos,547,Vale do Paraíba Paulista
+3532405,Nazaré Paulista,de 15 a 19 anos,1205,Macro Metropolitana Paulista
+3532405,Nazaré Paulista,de 20 a 24 anos,1536,Macro Metropolitana Paulista
+3532504,Neves Paulista,de 15 a 19 anos,425,São José do Rio Preto
+3532504,Neves Paulista,de 20 a 24 anos,507,São José do Rio Preto
+3532603,Nhandeara,de 15 a 19 anos,536,São José do Rio Preto
+3532603,Nhandeara,de 20 a 24 anos,639,São José do Rio Preto
+3532702,Nipoã,de 15 a 19 anos,303,São José do Rio Preto
+3532702,Nipoã,de 20 a 24 anos,352,São José do Rio Preto
+3532801,Nova Aliança,de 15 a 19 anos,379,São José do Rio Preto
+3532801,Nova Aliança,de 20 a 24 anos,491,São José do Rio Preto
+3532827,Nova Campina,de 15 a 19 anos,805,Itapetininga
+3532827,Nova Campina,de 20 a 24 anos,1013,Itapetininga
+3532843,Nova Canaã Paulista,de 15 a 19 anos,95,São José do Rio Preto
+3532843,Nova Canaã Paulista,de 20 a 24 anos,127,São José do Rio Preto
+3532868,Nova Castilho,de 15 a 19 anos,67,São José do Rio Preto
+3532868,Nova Castilho,de 20 a 24 anos,90,São José do Rio Preto
+3532900,Nova Europa,de 15 a 19 anos,759,Araraquara
+3532900,Nova Europa,de 20 a 24 anos,851,Araraquara
+3533007,Nova Granada,de 15 a 19 anos,1260,São José do Rio Preto
+3533007,Nova Granada,de 20 a 24 anos,1576,São José do Rio Preto
+3533106,Nova Guataporanga,de 15 a 19 anos,133,Presidente Prudente
+3533106,Nova Guataporanga,de 20 a 24 anos,179,Presidente Prudente
+3533205,Nova Independência,de 15 a 19 anos,271,Araçatuba
+3533205,Nova Independência,de 20 a 24 anos,306,Araçatuba
+3533254,Novais,de 15 a 19 anos,394,São José do Rio Preto
+3533254,Novais,de 20 a 24 anos,411,São José do Rio Preto
+3533304,Nova Lusitânia,de 15 a 19 anos,271,São José do Rio Preto
+3533304,Nova Lusitânia,de 20 a 24 anos,302,São José do Rio Preto
+3533403,Nova Odessa,de 15 a 19 anos,3573,Campinas
+3533403,Nova Odessa,de 20 a 24 anos,4349,Campinas
+3533502,Novo Horizonte,de 15 a 19 anos,2473,São José do Rio Preto
+3533502,Novo Horizonte,de 20 a 24 anos,2770,São José do Rio Preto
+3533601,Nuporanga,de 15 a 19 anos,447,Ribeirão Preto
+3533601,Nuporanga,de 20 a 24 anos,534,Ribeirão Preto
+3533700,Ocauçu,de 15 a 19 anos,277,Marília
+3533700,Ocauçu,de 20 a 24 anos,303,Marília
+3533809,Óleo,de 15 a 19 anos,172,Assis
+3533809,Óleo,de 20 a 24 anos,196,Assis
+3533908,Olímpia,de 15 a 19 anos,3227,São José do Rio Preto
+3533908,Olímpia,de 20 a 24 anos,3508,São José do Rio Preto
+3534005,Onda Verde,de 15 a 19 anos,294,São José do Rio Preto
+3534005,Onda Verde,de 20 a 24 anos,341,São José do Rio Preto
+3534104,Oriente,de 15 a 19 anos,377,Marília
+3534104,Oriente,de 20 a 24 anos,443,Marília
+3534203,Orindiúva,de 15 a 19 anos,477,São José do Rio Preto
+3534203,Orindiúva,de 20 a 24 anos,550,São José do Rio Preto
+3534302,Orlândia,de 15 a 19 anos,2660,Ribeirão Preto
+3534302,Orlândia,de 20 a 24 anos,3037,Ribeirão Preto
+3534401,Osasco,de 15 a 19 anos,44650,Metropolitana de São Paulo
+3534401,Osasco,de 20 a 24 anos,52805,Metropolitana de São Paulo
+3534500,Oscar Bressane,de 15 a 19 anos,134,Marília
+3534500,Oscar Bressane,de 20 a 24 anos,149,Marília
+3534609,Osvaldo Cruz,de 15 a 19 anos,1790,Presidente Prudente
+3534609,Osvaldo Cruz,de 20 a 24 anos,2705,Presidente Prudente
+3534708,Ourinhos,de 15 a 19 anos,7043,Assis
+3534708,Ourinhos,de 20 a 24 anos,8080,Assis
+3534757,Ouroeste,de 15 a 19 anos,594,São José do Rio Preto
+3534757,Ouroeste,de 20 a 24 anos,746,São José do Rio Preto
+3534807,Ouro Verde,de 15 a 19 anos,579,Presidente Prudente
+3534807,Ouro Verde,de 20 a 24 anos,631,Presidente Prudente
+3534906,Pacaembu,de 15 a 19 anos,615,Presidente Prudente
+3534906,Pacaembu,de 20 a 24 anos,1208,Presidente Prudente
+3535002,Palestina,de 15 a 19 anos,669,São José do Rio Preto
+3535002,Palestina,de 20 a 24 anos,826,São José do Rio Preto
+3535101,Palmares Paulista,de 15 a 19 anos,878,São José do Rio Preto
+3535101,Palmares Paulista,de 20 a 24 anos,1020,São José do Rio Preto
+3535200,Palmeira d'Oeste,de 15 a 19 anos,530,São José do Rio Preto
+3535200,Palmeira d'Oeste,de 20 a 24 anos,633,São José do Rio Preto
+3535309,Palmital,de 15 a 19 anos,1254,Assis
+3535309,Palmital,de 20 a 24 anos,1530,Assis
+3535408,Panorama,de 15 a 19 anos,1106,Presidente Prudente
+3535408,Panorama,de 20 a 24 anos,1211,Presidente Prudente
+3535507,Paraguaçu Paulista,de 15 a 19 anos,2832,Assis
+3535507,Paraguaçu Paulista,de 20 a 24 anos,3371,Assis
+3535606,Paraibuna,de 15 a 19 anos,1201,Vale do Paraíba Paulista
+3535606,Paraibuna,de 20 a 24 anos,1448,Vale do Paraíba Paulista
+3535705,Paraíso,de 15 a 19 anos,370,São José do Rio Preto
+3535705,Paraíso,de 20 a 24 anos,454,São José do Rio Preto
+3535804,Paranapanema,de 15 a 19 anos,1449,Bauru
+3535804,Paranapanema,de 20 a 24 anos,1811,Bauru
+3535903,Paranapuã,de 15 a 19 anos,254,São José do Rio Preto
+3535903,Paranapuã,de 20 a 24 anos,302,São José do Rio Preto
+3536000,Parapuã,de 15 a 19 anos,644,Presidente Prudente
+3536000,Parapuã,de 20 a 24 anos,728,Presidente Prudente
+3536109,Pardinho,de 15 a 19 anos,468,Bauru
+3536109,Pardinho,de 20 a 24 anos,547,Bauru
+3536208,Pariquera-Açu,de 15 a 19 anos,1360,Litoral Sul Paulista
+3536208,Pariquera-Açu,de 20 a 24 anos,1649,Litoral Sul Paulista
+3536257,Parisi,de 15 a 19 anos,116,São José do Rio Preto
+3536257,Parisi,de 20 a 24 anos,130,São José do Rio Preto
+3536307,Patrocínio Paulista,de 15 a 19 anos,995,Ribeirão Preto
+3536307,Patrocínio Paulista,de 20 a 24 anos,1108,Ribeirão Preto
+3536406,Paulicéia,de 15 a 19 anos,512,Presidente Prudente
+3536406,Paulicéia,de 20 a 24 anos,602,Presidente Prudente
+3536505,Paulínia,de 15 a 19 anos,7095,Campinas
+3536505,Paulínia,de 20 a 24 anos,8150,Campinas
+3536570,Paulistânia,de 15 a 19 anos,124,Bauru
+3536570,Paulistânia,de 20 a 24 anos,156,Bauru
+3536604,Paulo de Faria,de 15 a 19 anos,570,São José do Rio Preto
+3536604,Paulo de Faria,de 20 a 24 anos,642,São José do Rio Preto
+3536703,Pederneiras,de 15 a 19 anos,3071,Bauru
+3536703,Pederneiras,de 20 a 24 anos,3755,Bauru
+3536802,Pedra Bela,de 15 a 19 anos,360,Campinas
+3536802,Pedra Bela,de 20 a 24 anos,461,Campinas
+3536901,Pedranópolis,de 15 a 19 anos,152,São José do Rio Preto
+3536901,Pedranópolis,de 20 a 24 anos,163,São José do Rio Preto
+3537008,Pedregulho,de 15 a 19 anos,1108,Ribeirão Preto
+3537008,Pedregulho,de 20 a 24 anos,1223,Ribeirão Preto
+3537107,Pedreira,de 15 a 19 anos,2819,Campinas
+3537107,Pedreira,de 20 a 24 anos,3380,Campinas
+3537156,Pedrinhas Paulista,de 15 a 19 anos,179,Assis
+3537156,Pedrinhas Paulista,de 20 a 24 anos,231,Assis
+3537206,Pedro de Toledo,de 15 a 19 anos,892,Litoral Sul Paulista
+3537206,Pedro de Toledo,de 20 a 24 anos,1028,Litoral Sul Paulista
+3537305,Penápolis,de 15 a 19 anos,3656,Araçatuba
+3537305,Penápolis,de 20 a 24 anos,4231,Araçatuba
+3537404,Pereira Barreto,de 15 a 19 anos,1544,Araçatuba
+3537404,Pereira Barreto,de 20 a 24 anos,1797,Araçatuba
+3537503,Pereiras,de 15 a 19 anos,573,Itapetininga
+3537503,Pereiras,de 20 a 24 anos,672,Itapetininga
+3537602,Peruíbe,de 15 a 19 anos,4702,Litoral Sul Paulista
+3537602,Peruíbe,de 20 a 24 anos,5549,Litoral Sul Paulista
+3537701,Piacatu,de 15 a 19 anos,353,Araçatuba
+3537701,Piacatu,de 20 a 24 anos,443,Araçatuba
+3537800,Piedade,de 15 a 19 anos,3540,Macro Metropolitana Paulista
+3537800,Piedade,de 20 a 24 anos,4363,Macro Metropolitana Paulista
+3537909,Pilar do Sul,de 15 a 19 anos,2014,Macro Metropolitana Paulista
+3537909,Pilar do Sul,de 20 a 24 anos,2289,Macro Metropolitana Paulista
+3538006,Pindamonhangaba,de 15 a 19 anos,11057,Vale do Paraíba Paulista
+3538006,Pindamonhangaba,de 20 a 24 anos,13163,Vale do Paraíba Paulista
+3538105,Pindorama,de 15 a 19 anos,950,São José do Rio Preto
+3538105,Pindorama,de 20 a 24 anos,1142,São José do Rio Preto
+3538204,Pinhalzinho,de 15 a 19 anos,957,Campinas
+3538204,Pinhalzinho,de 20 a 24 anos,1192,Campinas
+3538303,Piquerobi,de 15 a 19 anos,219,Presidente Prudente
+3538303,Piquerobi,de 20 a 24 anos,246,Presidente Prudente
+3538501,Piquete,de 15 a 19 anos,866,Vale do Paraíba Paulista
+3538501,Piquete,de 20 a 24 anos,939,Vale do Paraíba Paulista
+3538600,Piracaia,de 15 a 19 anos,1633,Macro Metropolitana Paulista
+3538600,Piracaia,de 20 a 24 anos,2077,Macro Metropolitana Paulista
+3538709,Piracicaba,de 15 a 19 anos,24013,Piracicaba
+3538709,Piracicaba,de 20 a 24 anos,27983,Piracicaba
+3538808,Piraju,de 15 a 19 anos,1874,Assis
+3538808,Piraju,de 20 a 24 anos,2161,Assis
+3538907,Pirajuí,de 15 a 19 anos,1350,Bauru
+3538907,Pirajuí,de 20 a 24 anos,2321,Bauru
+3539004,Pirangi,de 15 a 19 anos,594,Ribeirão Preto
+3539004,Pirangi,de 20 a 24 anos,730,Ribeirão Preto
+3539103,Pirapora do Bom Jesus,de 15 a 19 anos,1583,Metropolitana de São Paulo
+3539103,Pirapora do Bom Jesus,de 20 a 24 anos,1945,Metropolitana de São Paulo
+3539202,Pirapozinho,de 15 a 19 anos,1683,Presidente Prudente
+3539202,Pirapozinho,de 20 a 24 anos,2117,Presidente Prudente
+3539301,Pirassununga,de 15 a 19 anos,4463,Campinas
+3539301,Pirassununga,de 20 a 24 anos,5272,Campinas
+3539400,Piratininga,de 15 a 19 anos,847,Bauru
+3539400,Piratininga,de 20 a 24 anos,1055,Bauru
+3539509,Pitangueiras,de 15 a 19 anos,2849,Ribeirão Preto
+3539509,Pitangueiras,de 20 a 24 anos,3143,Ribeirão Preto
+3539608,Planalto,de 15 a 19 anos,359,São José do Rio Preto
+3539608,Planalto,de 20 a 24 anos,378,São José do Rio Preto
+3539707,Platina,de 15 a 19 anos,249,Assis
+3539707,Platina,de 20 a 24 anos,294,Assis
+3539806,Poá,de 15 a 19 anos,7875,Metropolitana de São Paulo
+3539806,Poá,de 20 a 24 anos,9255,Metropolitana de São Paulo
+3539905,Poloni,de 15 a 19 anos,318,São José do Rio Preto
+3539905,Poloni,de 20 a 24 anos,341,São José do Rio Preto
+3540002,Pompéia,de 15 a 19 anos,1307,Marília
+3540002,Pompéia,de 20 a 24 anos,1611,Marília
+3540101,Pongaí,de 15 a 19 anos,176,Bauru
+3540101,Pongaí,de 20 a 24 anos,214,Bauru
+3540200,Pontal,de 15 a 19 anos,3525,Ribeirão Preto
+3540200,Pontal,de 20 a 24 anos,4081,Ribeirão Preto
+3540259,Pontalinda,de 15 a 19 anos,292,São José do Rio Preto
+3540259,Pontalinda,de 20 a 24 anos,324,São José do Rio Preto
+3540309,Pontes Gestal,de 15 a 19 anos,153,São José do Rio Preto
+3540309,Pontes Gestal,de 20 a 24 anos,183,São José do Rio Preto
+3540408,Populina,de 15 a 19 anos,225,São José do Rio Preto
+3540408,Populina,de 20 a 24 anos,267,São José do Rio Preto
+3540507,Porangaba,de 15 a 19 anos,622,Itapetininga
+3540507,Porangaba,de 20 a 24 anos,756,Itapetininga
+3540606,Porto Feliz,de 15 a 19 anos,3344,Macro Metropolitana Paulista
+3540606,Porto Feliz,de 20 a 24 anos,3965,Macro Metropolitana Paulista
+3540705,Porto Ferreira,de 15 a 19 anos,3457,Campinas
+3540705,Porto Ferreira,de 20 a 24 anos,3771,Campinas
+3540754,Potim,de 15 a 19 anos,1465,Vale do Paraíba Paulista
+3540754,Potim,de 20 a 24 anos,2261,Vale do Paraíba Paulista
+3540804,Potirendaba,de 15 a 19 anos,956,São José do Rio Preto
+3540804,Potirendaba,de 20 a 24 anos,1047,São José do Rio Preto
+3540853,Pracinha,de 15 a 19 anos,199,Presidente Prudente
+3540853,Pracinha,de 20 a 24 anos,637,Presidente Prudente
+3540903,Pradópolis,de 15 a 19 anos,1385,Ribeirão Preto
+3540903,Pradópolis,de 20 a 24 anos,1574,Ribeirão Preto
+3541000,Praia Grande,de 15 a 19 anos,22624,Metropolitana de São Paulo
+3541000,Praia Grande,de 20 a 24 anos,26796,Metropolitana de São Paulo
+3541059,Pratânia,de 15 a 19 anos,386,Bauru
+3541059,Pratânia,de 20 a 24 anos,459,Bauru
+3541109,Presidente Alves,de 15 a 19 anos,234,Bauru
+3541109,Presidente Alves,de 20 a 24 anos,285,Bauru
+3541208,Presidente Bernardes,de 15 a 19 anos,755,Presidente Prudente
+3541208,Presidente Bernardes,de 20 a 24 anos,918,Presidente Prudente
+3541307,Presidente Epitácio,de 15 a 19 anos,2882,Presidente Prudente
+3541307,Presidente Epitácio,de 20 a 24 anos,3224,Presidente Prudente
+3541406,Presidente Prudente,de 15 a 19 anos,13247,Presidente Prudente
+3541406,Presidente Prudente,de 20 a 24 anos,15586,Presidente Prudente
+3541505,Presidente Venceslau,de 15 a 19 anos,2115,Presidente Prudente
+3541505,Presidente Venceslau,de 20 a 24 anos,2696,Presidente Prudente
+3541604,Promissão,de 15 a 19 anos,2644,Bauru
+3541604,Promissão,de 20 a 24 anos,3019,Bauru
+3541653,Quadra,de 15 a 19 anos,262,Itapetininga
+3541653,Quadra,de 20 a 24 anos,299,Itapetininga
+3541703,Quatá,de 15 a 19 anos,931,Assis
+3541703,Quatá,de 20 a 24 anos,1065,Assis
+3541802,Queiroz,de 15 a 19 anos,267,Marília
+3541802,Queiroz,de 20 a 24 anos,314,Marília
+3541901,Queluz,de 15 a 19 anos,936,Vale do Paraíba Paulista
+3541901,Queluz,de 20 a 24 anos,988,Vale do Paraíba Paulista
+3542008,Quitana,de 15 a 19 anos,398,Marília
+3542008,Quitana,de 20 a 24 anos,490,Marília
+3542107,Rafard,de 15 a 19 anos,597,Piracicaba
+3542107,Rafard,de 20 a 24 anos,636,Piracicaba
+3542206,Rancharia,de 15 a 19 anos,1905,Presidente Prudente
+3542206,Rancharia,de 20 a 24 anos,2112,Presidente Prudente
+3542305,Redenção da Serra,de 15 a 19 anos,264,Vale do Paraíba Paulista
+3542305,Redenção da Serra,de 20 a 24 anos,320,Vale do Paraíba Paulista
+3542404,Regente Feijó,de 15 a 19 anos,1182,Presidente Prudente
+3542404,Regente Feijó,de 20 a 24 anos,1430,Presidente Prudente
+3542503,Reginópolis,de 15 a 19 anos,630,Bauru
+3542503,Reginópolis,de 20 a 24 anos,1462,Bauru
+3542602,Registro,de 15 a 19 anos,3957,Litoral Sul Paulista
+3542602,Registro,de 20 a 24 anos,4577,Litoral Sul Paulista
+3542701,Restinga,de 15 a 19 anos,573,Ribeirão Preto
+3542701,Restinga,de 20 a 24 anos,643,Ribeirão Preto
+3542800,Ribeira,de 15 a 19 anos,255,Itapetininga
+3542800,Ribeira,de 20 a 24 anos,291,Itapetininga
+3542909,Ribeirão Bonito,de 15 a 19 anos,908,Araraquara
+3542909,Ribeirão Bonito,de 20 a 24 anos,976,Araraquara
+3543006,Ribeirão Branco,de 15 a 19 anos,1513,Itapetininga
+3543006,Ribeirão Branco,de 20 a 24 anos,1804,Itapetininga
+3543105,Ribeirão Corrente,de 15 a 19 anos,339,Ribeirão Preto
+3543105,Ribeirão Corrente,de 20 a 24 anos,403,Ribeirão Preto
+3543204,Ribeirão do Sul,de 15 a 19 anos,260,Assis
+3543204,Ribeirão do Sul,de 20 a 24 anos,343,Assis
+3543238,Ribeirão dos Índios,de 15 a 19 anos,123,Presidente Prudente
+3543238,Ribeirão dos Índios,de 20 a 24 anos,165,Presidente Prudente
+3543253,Ribeirão Grande,de 15 a 19 anos,526,Itapetininga
+3543253,Ribeirão Grande,de 20 a 24 anos,629,Itapetininga
+3543303,Ribeirão Pires,de 15 a 19 anos,7317,Metropolitana de São Paulo
+3543303,Ribeirão Pires,de 20 a 24 anos,8571,Metropolitana de São Paulo
+3543402,Ribeirão Preto,de 15 a 19 anos,40713,Ribeirão Preto
+3543402,Ribeirão Preto,de 20 a 24 anos,48274,Ribeirão Preto
+3543501,Riversul,de 15 a 19 anos,399,Itapetininga
+3543501,Riversul,de 20 a 24 anos,465,Itapetininga
+3543600,Rifaina,de 15 a 19 anos,235,Ribeirão Preto
+3543600,Rifaina,de 20 a 24 anos,259,Ribeirão Preto
+3543709,Rincão,de 15 a 19 anos,744,Araraquara
+3543709,Rincão,de 20 a 24 anos,839,Araraquara
+3543808,Rinópolis,de 15 a 19 anos,597,Presidente Prudente
+3543808,Rinópolis,de 20 a 24 anos,627,Presidente Prudente
+3543907,Rio Claro,de 15 a 19 anos,11923,Piracicaba
+3543907,Rio Claro,de 20 a 24 anos,14361,Piracicaba
+3544004,Rio das Pedras,de 15 a 19 anos,2380,Piracicaba
+3544004,Rio das Pedras,de 20 a 24 anos,2737,Piracicaba
+3544103,Rio Grande da Serra,de 15 a 19 anos,3659,Metropolitana de São Paulo
+3544103,Rio Grande da Serra,de 20 a 24 anos,4286,Metropolitana de São Paulo
+3544202,Riolândia,de 15 a 19 anos,738,São José do Rio Preto
+3544202,Riolândia,de 20 a 24 anos,972,São José do Rio Preto
+3544251,Rosana,de 15 a 19 anos,1249,Presidente Prudente
+3544251,Rosana,de 20 a 24 anos,1581,Presidente Prudente
+3544301,Roseira,de 15 a 19 anos,722,Vale do Paraíba Paulista
+3544301,Roseira,de 20 a 24 anos,815,Vale do Paraíba Paulista
+3544400,Rubiácea,de 15 a 19 anos,218,Araçatuba
+3544400,Rubiácea,de 20 a 24 anos,246,Araçatuba
+3544509,Rubinéia,de 15 a 19 anos,170,São José do Rio Preto
+3544509,Rubinéia,de 20 a 24 anos,223,São José do Rio Preto
+3544608,Sabino,de 15 a 19 anos,327,Bauru
+3544608,Sabino,de 20 a 24 anos,381,Bauru
+3544707,Sagres,de 15 a 19 anos,154,Presidente Prudente
+3544707,Sagres,de 20 a 24 anos,194,Presidente Prudente
+3544806,Sales,de 15 a 19 anos,402,São José do Rio Preto
+3544806,Sales,de 20 a 24 anos,439,São José do Rio Preto
+3544905,Sales Oliveira,de 15 a 19 anos,696,Ribeirão Preto
+3544905,Sales Oliveira,de 20 a 24 anos,845,Ribeirão Preto
+3545001,Salesópolis,de 15 a 19 anos,1210,Metropolitana de São Paulo
+3545001,Salesópolis,de 20 a 24 anos,1392,Metropolitana de São Paulo
+3545100,Salmourão,de 15 a 19 anos,342,Presidente Prudente
+3545100,Salmourão,de 20 a 24 anos,401,Presidente Prudente
+3545159,Saltinho,de 15 a 19 anos,455,Piracicaba
+3545159,Saltinho,de 20 a 24 anos,556,Piracicaba
+3545209,Salto,de 15 a 19 anos,7262,Macro Metropolitana Paulista
+3545209,Salto,de 20 a 24 anos,8725,Macro Metropolitana Paulista
+3545308,Salto de Pirapora,de 15 a 19 anos,2962,Macro Metropolitana Paulista
+3545308,Salto de Pirapora,de 20 a 24 anos,3649,Macro Metropolitana Paulista
+3545407,Salto Grande,de 15 a 19 anos,637,Assis
+3545407,Salto Grande,de 20 a 24 anos,724,Assis
+3545506,Sandovalina,de 15 a 19 anos,302,Presidente Prudente
+3545506,Sandovalina,de 20 a 24 anos,373,Presidente Prudente
+3545605,Santa Adélia,de 15 a 19 anos,952,São José do Rio Preto
+3545605,Santa Adélia,de 20 a 24 anos,1083,São José do Rio Preto
+3545704,Santa Albertina,de 15 a 19 anos,312,São José do Rio Preto
+3545704,Santa Albertina,de 20 a 24 anos,365,São José do Rio Preto
+3545803,Santa Bárbara d'Oeste,de 15 a 19 anos,11047,Campinas
+3545803,Santa Bárbara d'Oeste,de 20 a 24 anos,12661,Campinas
+3546009,Santa Branca,de 15 a 19 anos,943,Vale do Paraíba Paulista
+3546009,Santa Branca,de 20 a 24 anos,1097,Vale do Paraíba Paulista
+3546108,Santa Clara d'Oeste,de 15 a 19 anos,116,São José do Rio Preto
+3546108,Santa Clara d'Oeste,de 20 a 24 anos,143,São José do Rio Preto
+3546207,Santa Cruz da Conceição,de 15 a 19 anos,264,Piracicaba
+3546207,Santa Cruz da Conceição,de 20 a 24 anos,341,Piracicaba
+3546256,Santa Cruz da Esperança,de 15 a 19 anos,142,Ribeirão Preto
+3546256,Santa Cruz da Esperança,de 20 a 24 anos,181,Ribeirão Preto
+3546306,Santa Cruz das Palmeiras,de 15 a 19 anos,2265,Campinas
+3546306,Santa Cruz das Palmeiras,de 20 a 24 anos,2571,Campinas
+3546405,Santa Cruz do Rio Pardo,de 15 a 19 anos,2994,Assis
+3546405,Santa Cruz do Rio Pardo,de 20 a 24 anos,3400,Assis
+3546504,Santa Ernestina,de 15 a 19 anos,369,Ribeirão Preto
+3546504,Santa Ernestina,de 20 a 24 anos,410,Ribeirão Preto
+3546603,Santa Fé do Sul,de 15 a 19 anos,1665,São José do Rio Preto
+3546603,Santa Fé do Sul,de 20 a 24 anos,2112,São José do Rio Preto
+3546702,Santa Gertrudes,de 15 a 19 anos,1825,Piracicaba
+3546702,Santa Gertrudes,de 20 a 24 anos,2158,Piracicaba
+3546801,Santa Isabel,de 15 a 19 anos,3775,Metropolitana de São Paulo
+3546801,Santa Isabel,de 20 a 24 anos,4386,Metropolitana de São Paulo
+3546900,Santa Lucia,de 15 a 19 anos,544,Araraquara
+3546900,Santa Lucia,de 20 a 24 anos,685,Araraquara
+3547007,Santa Maria da Serra,de 15 a 19 anos,437,Piracicaba
+3547007,Santa Maria da Serra,de 20 a 24 anos,473,Piracicaba
+3547106,Santa Mercedes,de 15 a 19 anos,210,Presidente Prudente
+3547106,Santa Mercedes,de 20 a 24 anos,232,Presidente Prudente
+3547205,Santana da Ponte Pensa,de 15 a 19 anos,71,São José do Rio Preto
+3547205,Santana da Ponte Pensa,de 20 a 24 anos,84,São José do Rio Preto
+3547304,Santana de Parnaíba,de 15 a 19 anos,9952,Metropolitana de São Paulo
+3547304,Santana de Parnaíba,de 20 a 24 anos,12185,Metropolitana de São Paulo
+3547403,Santa Rita d'Oeste,de 15 a 19 anos,122,São José do Rio Preto
+3547403,Santa Rita d'Oeste,de 20 a 24 anos,140,São José do Rio Preto
+3547502,Santa Rita do Passa Quatro,de 15 a 19 anos,1421,Ribeirão Preto
+3547502,Santa Rita do Passa Quatro,de 20 a 24 anos,1678,Ribeirão Preto
+3547601,Santa Rosa do Viterbo,de 15 a 19 anos,1530,Ribeirão Preto
+3547601,Santa Rosa do Viterbo,de 20 a 24 anos,1943,Ribeirão Preto
+3547650,Santa Salete,de 15 a 19 anos,70,São José do Rio Preto
+3547650,Santa Salete,de 20 a 24 anos,94,São José do Rio Preto
+3547700,Santo Anastácio,de 15 a 19 anos,1184,Presidente Prudente
+3547700,Santo Anastácio,de 20 a 24 anos,1435,Presidente Prudente
+3547809,Santo André,de 15 a 19 anos,40296,Metropolitana de São Paulo
+3547809,Santo André,de 20 a 24 anos,47972,Metropolitana de São Paulo
+3547908,Santo Antonio da Alegria,de 15 a 19 anos,410,Ribeirão Preto
+3547908,Santo Antonio da Alegria,de 20 a 24 anos,504,Ribeirão Preto
+3548005,Santo Antonio da Posse,de 15 a 19 anos,1577,Campinas
+3548005,Santo Antonio da Posse,de 20 a 24 anos,1884,Campinas
+3548054,Santo Antonio do Aracanguá,de 15 a 19 anos,509,Araçatuba
+3548054,Santo Antonio do Aracanguá,de 20 a 24 anos,628,Araçatuba
+3548104,Santo Antonio do Jardim,de 15 a 19 anos,376,Campinas
+3548104,Santo Antonio do Jardim,de 20 a 24 anos,418,Campinas
+3548203,Santo Antonio do Pinhal,de 15 a 19 anos,469,Vale do Paraíba Paulista
+3548203,Santo Antonio do Pinhal,de 20 a 24 anos,572,Vale do Paraíba Paulista
+3548302,Santo Expedito,de 15 a 19 anos,184,Presidente Prudente
+3548302,Santo Expedito,de 20 a 24 anos,215,Presidente Prudente
+3548401,Santópolis do Aguapeí,de 15 a 19 anos,307,Araçatuba
+3548401,Santópolis do Aguapeí,de 20 a 24 anos,348,Araçatuba
+3548500,Santos,de 15 a 19 anos,22899,Metropolitana de São Paulo
+3548500,Santos,de 20 a 24 anos,27690,Metropolitana de São Paulo
+3548609,São Bento do Sapucaí,de 15 a 19 anos,676,Vale do Paraíba Paulista
+3548609,São Bento do Sapucaí,de 20 a 24 anos,820,Vale do Paraíba Paulista
+3548708,São Bernardo do Campo,de 15 a 19 anos,50053,Metropolitana de São Paulo
+3548708,São Bernardo do Campo,de 20 a 24 anos,60066,Metropolitana de São Paulo
+3548807,São Caetano do Sul,de 15 a 19 anos,7317,Metropolitana de São Paulo
+3548807,São Caetano do Sul,de 20 a 24 anos,8594,Metropolitana de São Paulo
+3548906,São Carlos,de 15 a 19 anos,14353,Araraquara
+3548906,São Carlos,de 20 a 24 anos,16987,Araraquara
+3549003,São Francisco,de 15 a 19 anos,168,São José do Rio Preto
+3549003,São Francisco,de 20 a 24 anos,191,São José do Rio Preto
+3549102,São João da Boa Vista,de 15 a 19 anos,5112,Campinas
+3549102,São João da Boa Vista,de 20 a 24 anos,6047,Campinas
+3549201,São João das Duas Pontes,de 15 a 19 anos,138,São José do Rio Preto
+3549201,São João das Duas Pontes,de 20 a 24 anos,201,São José do Rio Preto
+3549250,São João de Iracema,de 15 a 19 anos,103,São José do Rio Preto
+3549250,São João de Iracema,de 20 a 24 anos,124,São José do Rio Preto
+3549300,São João do Pau d'Alho,de 15 a 19 anos,98,Presidente Prudente
+3549300,São João do Pau d'Alho,de 20 a 24 anos,143,Presidente Prudente
+3549409,São Joaquim da Barra,de 15 a 19 anos,3201,Ribeirão Preto
+3549409,São Joaquim da Barra,de 20 a 24 anos,3581,Ribeirão Preto
+3549508,São José da Bela Vista,de 15 a 19 anos,696,Ribeirão Preto
+3549508,São José da Bela Vista,de 20 a 24 anos,745,Ribeirão Preto
+3549607,São José do Barreiro,de 15 a 19 anos,320,Vale do Paraíba Paulista
+3549607,São José do Barreiro,de 20 a 24 anos,357,Vale do Paraíba Paulista
+3549706,São José do Rio Pardo,de 15 a 19 anos,3098,Campinas
+3549706,São José do Rio Pardo,de 20 a 24 anos,3569,Campinas
+3549805,São José do Rio Preto,de 15 a 19 anos,24840,São José do Rio Preto
+3549805,São José do Rio Preto,de 20 a 24 anos,29824,São José do Rio Preto
+3549904,São José dos Campos,de 15 a 19 anos,44870,Vale do Paraíba Paulista
+3549904,São José dos Campos,de 20 a 24 anos,52755,Vale do Paraíba Paulista
+3549953,São Lourenço da Serra,de 15 a 19 anos,1073,Metropolitana de São Paulo
+3549953,São Lourenço da Serra,de 20 a 24 anos,1378,Metropolitana de São Paulo
+3550001,São Luís do Paraitinga,de 15 a 19 anos,634,Vale do Paraíba Paulista
+3550001,São Luís do Paraitinga,de 20 a 24 anos,797,Vale do Paraíba Paulista
+3550100,São Manuel,de 15 a 19 anos,2575,Bauru
+3550100,São Manuel,de 20 a 24 anos,3043,Bauru
+3550209,São Miguel Arcanjo,de 15 a 19 anos,2336,Macro Metropolitana Paulista
+3550209,São Miguel Arcanjo,de 20 a 24 anos,2695,Macro Metropolitana Paulista
+3550308,São Paulo,de 15 a 19 anos,738445,Metropolitana de São Paulo
+3550308,São Paulo,de 20 a 24 anos,874734,Metropolitana de São Paulo
+3550407,São Pedro,de 15 a 19 anos,2189,Piracicaba
+3550407,São Pedro,de 20 a 24 anos,2707,Piracicaba
+3550506,São Pedro do Turvo,de 15 a 19 anos,525,Assis
+3550506,São Pedro do Turvo,de 20 a 24 anos,614,Assis
+3550605,São Roque,de 15 a 19 anos,5501,Macro Metropolitana Paulista
+3550605,São Roque,de 20 a 24 anos,6817,Macro Metropolitana Paulista
+3550704,São Sebastião,de 15 a 19 anos,6172,Vale do Paraíba Paulista
+3550704,São Sebastião,de 20 a 24 anos,7151,Vale do Paraíba Paulista
+3550803,São Sebastião da Grama,de 15 a 19 anos,782,Campinas
+3550803,São Sebastião da Grama,de 20 a 24 anos,907,Campinas
+3550902,São Simão,de 15 a 19 anos,1008,Ribeirão Preto
+3550902,São Simão,de 20 a 24 anos,1130,Ribeirão Preto
+3551009,São Vicente,de 15 a 19 anos,24183,Metropolitana de São Paulo
+3551009,São Vicente,de 20 a 24 anos,27857,Metropolitana de São Paulo
+3551108,Sarapuí,de 15 a 19 anos,776,Macro Metropolitana Paulista
+3551108,Sarapuí,de 20 a 24 anos,932,Macro Metropolitana Paulista
+3551207,Sarutaiá,de 15 a 19 anos,275,Assis
+3551207,Sarutaiá,de 20 a 24 anos,292,Assis
+3551306,Sebastianópolis do Sul,de 15 a 19 anos,167,São José do Rio Preto
+3551306,Sebastianópolis do Sul,de 20 a 24 anos,210,São José do Rio Preto
+3551405,Serra Azul,de 15 a 19 anos,808,Ribeirão Preto
+3551405,Serra Azul,de 20 a 24 anos,1349,Ribeirão Preto
+3551504,Serrana,de 15 a 19 anos,3135,Ribeirão Preto
+3551504,Serrana,de 20 a 24 anos,3598,Ribeirão Preto
+3551603,Serra Negra,de 15 a 19 anos,1605,Campinas
+3551603,Serra Negra,de 20 a 24 anos,1889,Campinas
+3551702,Sertãozinho,de 15 a 19 anos,7754,Ribeirão Preto
+3551702,Sertãozinho,de 20 a 24 anos,8912,Ribeirão Preto
+3551801,Sete Barras,de 15 a 19 anos,1005,Litoral Sul Paulista
+3551801,Sete Barras,de 20 a 24 anos,1100,Litoral Sul Paulista
+3551900,Severínia,de 15 a 19 anos,1167,São José do Rio Preto
+3551900,Severínia,de 20 a 24 anos,1405,São José do Rio Preto
+3552007,Silveiras,de 15 a 19 anos,453,Vale do Paraíba Paulista
+3552007,Silveiras,de 20 a 24 anos,546,Vale do Paraíba Paulista
+3552106,Socorro,de 15 a 19 anos,2250,Campinas
+3552106,Socorro,de 20 a 24 anos,2629,Campinas
+3552205,Sorocaba,de 15 a 19 anos,41007,Macro Metropolitana Paulista
+3552205,Sorocaba,de 20 a 24 anos,50344,Macro Metropolitana Paulista
+3552304,Sud Mennucci,de 15 a 19 anos,488,Araçatuba
+3552304,Sud Mennucci,de 20 a 24 anos,557,Araçatuba
+3552403,Sumaré,de 15 a 19 anos,18963,Campinas
+3552403,Sumaré,de 20 a 24 anos,22311,Campinas
+3552502,Suzano,de 15 a 19 anos,20717,Metropolitana de São Paulo
+3552502,Suzano,de 20 a 24 anos,24866,Metropolitana de São Paulo
+3552551,Suzanópolis,de 15 a 19 anos,263,Araçatuba
+3552551,Suzanópolis,de 20 a 24 anos,311,Araçatuba
+3552601,Tabapuã,de 15 a 19 anos,665,São José do Rio Preto
+3552601,Tabapuã,de 20 a 24 anos,769,São José do Rio Preto
+3552700,Tabatinga,de 15 a 19 anos,1066,Araraquara
+3552700,Tabatinga,de 20 a 24 anos,1212,Araraquara
+3552809,Taboão da Serra,de 15 a 19 anos,19289,Metropolitana de São Paulo
+3552809,Taboão da Serra,de 20 a 24 anos,22550,Metropolitana de São Paulo
+3552908,Taciba,de 15 a 19 anos,406,Presidente Prudente
+3552908,Taciba,de 20 a 24 anos,475,Presidente Prudente
+3553005,Taguaí,de 15 a 19 anos,883,Assis
+3553005,Taguaí,de 20 a 24 anos,1058,Assis
+3553104,Taiaçu,de 15 a 19 anos,392,Ribeirão Preto
+3553104,Taiaçu,de 20 a 24 anos,482,Ribeirão Preto
+3553203,Taiúva,de 15 a 19 anos,355,Ribeirão Preto
+3553203,Taiúva,de 20 a 24 anos,577,Ribeirão Preto
+3553302,Tambaú,de 15 a 19 anos,1491,Campinas
+3553302,Tambaú,de 20 a 24 anos,1653,Campinas
+3553401,Tanabi,de 15 a 19 anos,1374,São José do Rio Preto
+3553401,Tanabi,de 20 a 24 anos,1660,São José do Rio Preto
+3553500,Tapiraí,de 15 a 19 anos,642,Macro Metropolitana Paulista
+3553500,Tapiraí,de 20 a 24 anos,759,Macro Metropolitana Paulista
+3553609,Tapiratiba,de 15 a 19 anos,770,Campinas
+3553609,Tapiratiba,de 20 a 24 anos,973,Campinas
+3553658,Taquaral,de 15 a 19 anos,190,Ribeirão Preto
+3553658,Taquaral,de 20 a 24 anos,208,Ribeirão Preto
+3553708,Taquaritinga,de 15 a 19 anos,3516,Ribeirão Preto
+3553708,Taquaritinga,de 20 a 24 anos,3939,Ribeirão Preto
+3553807,Taquarituba,de 15 a 19 anos,1524,Itapetininga
+3553807,Taquarituba,de 20 a 24 anos,1802,Itapetininga
+3553856,Taquarivaí,de 15 a 19 anos,482,Itapetininga
+3553856,Taquarivaí,de 20 a 24 anos,555,Itapetininga
+3553906,Tarabaí,de 15 a 19 anos,537,Presidente Prudente
+3553906,Tarabaí,de 20 a 24 anos,598,Presidente Prudente
+3553955,Tarumã,de 15 a 19 anos,1028,Assis
+3553955,Tarumã,de 20 a 24 anos,1143,Assis
+3554003,Tatuí,de 15 a 19 anos,8066,Itapetininga
+3554003,Tatuí,de 20 a 24 anos,9703,Itapetininga
+3554102,Taubaté,de 15 a 19 anos,19338,Vale do Paraíba Paulista
+3554102,Taubaté,de 20 a 24 anos,23173,Vale do Paraíba Paulista
+3554201,Tejupá,de 15 a 19 anos,383,Assis
+3554201,Tejupá,de 20 a 24 anos,434,Assis
+3554300,Teodoro Sampaio,de 15 a 19 anos,1632,Presidente Prudente
+3554300,Teodoro Sampaio,de 20 a 24 anos,1855,Presidente Prudente
+3554409,Terra Roxa,de 15 a 19 anos,605,Ribeirão Preto
+3554409,Terra Roxa,de 20 a 24 anos,680,Ribeirão Preto
+3554508,Tietê,de 15 a 19 anos,2549,Piracicaba
+3554508,Tietê,de 20 a 24 anos,3045,Piracicaba
+3554607,Timburi,de 15 a 19 anos,165,Assis
+3554607,Timburi,de 20 a 24 anos,207,Assis
+3554656,Torre de Pedra,de 15 a 19 anos,153,Itapetininga
+3554656,Torre de Pedra,de 20 a 24 anos,198,Itapetininga
+3554706,Torrinha,de 15 a 19 anos,545,Piracicaba
+3554706,Torrinha,de 20 a 24 anos,669,Piracicaba
+3554755,Trabiju,de 15 a 19 anos,118,Araraquara
+3554755,Trabiju,de 20 a 24 anos,149,Araraquara
+3554805,Tremembé,de 15 a 19 anos,2944,Vale do Paraíba Paulista
+3554805,Tremembé,de 20 a 24 anos,4383,Vale do Paraíba Paulista
+3554904,Três Fronteiras,de 15 a 19 anos,304,São José do Rio Preto
+3554904,Três Fronteiras,de 20 a 24 anos,409,São José do Rio Preto
+3554953,Tuiuti,de 15 a 19 anos,387,Macro Metropolitana Paulista
+3554953,Tuiuti,de 20 a 24 anos,477,Macro Metropolitana Paulista
+3555000,Tupã,de 15 a 19 anos,3581,Marília
+3555000,Tupã,de 20 a 24 anos,4077,Marília
+3555109,Tupi Paulista,de 15 a 19 anos,655,Presidente Prudente
+3555109,Tupi Paulista,de 20 a 24 anos,1054,Presidente Prudente
+3555208,Turiúba,de 15 a 19 anos,97,Araçatuba
+3555208,Turiúba,de 20 a 24 anos,114,Araçatuba
+3555307,Turmalina,de 15 a 19 anos,80,São José do Rio Preto
+3555307,Turmalina,de 20 a 24 anos,114,São José do Rio Preto
+3555356,Ubarana,de 15 a 19 anos,472,São José do Rio Preto
+3555356,Ubarana,de 20 a 24 anos,539,São José do Rio Preto
+3555406,Ubatuba,de 15 a 19 anos,6221,Vale do Paraíba Paulista
+3555406,Ubatuba,de 20 a 24 anos,7774,Vale do Paraíba Paulista
+3555505,Ubirajara,de 15 a 19 anos,319,Bauru
+3555505,Ubirajara,de 20 a 24 anos,366,Bauru
+3555604,Uchôa,de 15 a 19 anos,564,São José do Rio Preto
+3555604,Uchôa,de 20 a 24 anos,642,São José do Rio Preto
+3555703,União Paulista,de 15 a 19 anos,114,São José do Rio Preto
+3555703,União Paulista,de 20 a 24 anos,135,São José do Rio Preto
+3555802,Urânia,de 15 a 19 anos,510,São José do Rio Preto
+3555802,Urânia,de 20 a 24 anos,558,São José do Rio Preto
+3555901,Uru,de 15 a 19 anos,70,Bauru
+3555901,Uru,de 20 a 24 anos,80,Bauru
+3556008,Urupês,de 15 a 19 anos,725,São José do Rio Preto
+3556008,Urupês,de 20 a 24 anos,864,São José do Rio Preto
+3556107,Valentim Gentil,de 15 a 19 anos,776,São José do Rio Preto
+3556107,Valentim Gentil,de 20 a 24 anos,946,São José do Rio Preto
+3556206,Valinhos,de 15 a 19 anos,7164,Campinas
+3556206,Valinhos,de 20 a 24 anos,8776,Campinas
+3556305,Valparaíso,de 15 a 19 anos,1440,Araçatuba
+3556305,Valparaíso,de 20 a 24 anos,1874,Araçatuba
+3556354,Vargem,de 15 a 19 anos,661,Macro Metropolitana Paulista
+3556354,Vargem,de 20 a 24 anos,842,Macro Metropolitana Paulista
+3556404,Vargem Grande do Sul,de 15 a 19 anos,2713,Campinas
+3556404,Vargem Grande do Sul,de 20 a 24 anos,3059,Campinas
+3556453,Vargem Grande Paulista,de 15 a 19 anos,3692,Metropolitana de São Paulo
+3556453,Vargem Grande Paulista,de 20 a 24 anos,4407,Metropolitana de São Paulo
+3556503,Várzea Paulista,de 15 a 19 anos,8080,Macro Metropolitana Paulista
+3556503,Várzea Paulista,de 20 a 24 anos,9160,Macro Metropolitana Paulista
+3556602,Vera Cruz,de 15 a 19 anos,675,Marília
+3556602,Vera Cruz,de 20 a 24 anos,777,Marília
+3556701,Vinhedo,de 15 a 19 anos,4699,Campinas
+3556701,Vinhedo,de 20 a 24 anos,5637,Campinas
+3556800,Viradouro,de 15 a 19 anos,1159,Ribeirão Preto
+3556800,Viradouro,de 20 a 24 anos,1366,Ribeirão Preto
+3556909,Vista Alegre do Alto,de 15 a 19 anos,492,Ribeirão Preto
+3556909,Vista Alegre do Alto,de 20 a 24 anos,595,Ribeirão Preto
+3556958,Vitória Brasil,de 15 a 19 anos,101,São José do Rio Preto
+3556958,Vitória Brasil,de 20 a 24 anos,113,São José do Rio Preto
+3557006,Votorantim,de 15 a 19 anos,8172,Macro Metropolitana Paulista
+3557006,Votorantim,de 20 a 24 anos,9563,Macro Metropolitana Paulista
+3557105,Votuporanga,de 15 a 19 anos,4972,São José do Rio Preto
+3557105,Votuporanga,de 20 a 24 anos,6162,São José do Rio Preto
+3557154,Zacarias,de 15 a 19 anos,157,São José do Rio Preto
+3557154,Zacarias,de 20 a 24 anos,188,São José do Rio Preto
+3557204,Chavantes,de 15 a 19 anos,804,Assis
+3557204,Chavantes,de 20 a 24 anos,957,Assis
+3557303,Estiva Gerbi,de 15 a 19 anos,709,Campinas
+3557303,Estiva Gerbi,de 20 a 24 anos,866,Campinas
