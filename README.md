@@ -1,0 +1,1 @@
+## Trabalho de Estratégias de Sistemas de Informação • Unesp Bauru • BSI 23
