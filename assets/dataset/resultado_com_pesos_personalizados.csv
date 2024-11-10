@@ -1,16 +1,16 @@
-cod_ibge,nm_mun,nm_meso,populacao,permanencia_media,ippa,ic,categoria1,categoria2,curso1_categoria1,curso1_categoria2,curso2_categoria1,curso2_categoria2,curso3_categoria1,curso3_categoria2,curso4_categoria1,curso4_categoria2,curso5_categoria1,curso5_categoria2
-3529302,MATÃO,ARARAQUARA,10252,0.9762333333333334,10008.3,0.0,exatas,saúde,Educação Física,Matemática,Enfermagem,Física,Medicina,Química,Fisioterapia,Engenharia de Produção,Fonoaudiologia,Ciência da Computação
-3506508,BIRIGUI,ARAÇATUBA,15894,0.9919666666666669,15766.3,0.0,humanas,saúde,Educação Física,Matemática,Enfermagem,Física,Medicina,Química,Fisioterapia,Engenharia de Produção,Fonoaudiologia,Ciência da Computação
-3546405,SANTA CRUZ DO RIO PARDO,ASSIS,6394,1.0,6394.0,0.0,exatas,humanas,Educação Física,Matemática,Enfermagem,Física,Medicina,Química,Fisioterapia,Engenharia de Produção,Fonoaudiologia,Ciência da Computação
-3504503,AVARÉ,BAURU,12557,0.9898999999999999,12430.2,0.0,humanas,saúde,Educação Física,Matemática,Enfermagem,Física,Medicina,Química,Fisioterapia,Engenharia de Produção,Fonoaudiologia,Ciência da Computação
-3519071,HORTOLÂNDIA,CAMPINAS,36733,0.9763999999999999,35866.1,0.0,humanas,saúde,Educação Física,Matemática,Enfermagem,Física,Medicina,Química,Fisioterapia,Engenharia de Produção,Fonoaudiologia,Ciência da Computação
-3554003,TATUÍ,ITAPETININGA,17769,0.9874666666666667,17546.3,0.0,saúde,humanas,Educação Física,Matemática,Enfermagem,Física,Medicina,Química,Fisioterapia,Engenharia de Produção,Fonoaudiologia,Ciência da Computação
-3522109,ITANHAÉM,LITORAL SUL PAULISTA,15740,0.9703,15272.5,0.0,humanas,saúde,Educação Física,Matemática,Enfermagem,Física,Medicina,Química,Fisioterapia,Engenharia de Produção,Fonoaudiologia,Ciência da Computação
-3523909,ITU,MACRO METROPOLITANA PAULISTA,23695,0.9816666666666666,23260.6,0.0,saúde,humanas,Educação Física,Matemática,Enfermagem,Física,Medicina,Química,Fisioterapia,Engenharia de Produção,Fonoaudiologia,Ciência da Computação
-3516705,GARÇA,MARÍLIA,5705,0.9939333333333332,5670.4,0.0,saúde,exatas,Educação Física,Matemática,Enfermagem,Física,Medicina,Química,Fisioterapia,Engenharia de Produção,Fonoaudiologia,Ciência da Computação
-3530607,MOGI DAS CRUZES,METROPOLITANA DE SÃO PAULO,66235,0.9944666666666667,65868.5,0.0,saúde,exatas,Educação Física,Matemática,Enfermagem,Física,Medicina,Química,Fisioterapia,Engenharia de Produção,Fonoaudiologia,Ciência da Computação
-3510401,CAPIVARI,PIRACICABA,7883,0.9597,7565.3,0.0,humanas,saúde,Educação Física,Matemática,Enfermagem,Física,Medicina,Química,Fisioterapia,Engenharia de Produção,Fonoaudiologia,Ciência da Computação
-3541307,PRESIDENTE EPITÁCIO,PRESIDENTE PRUDENTE,6106,0.8858000000000001,5408.7,0.0,humanas,saúde,Educação Física,Matemática,Enfermagem,Física,Medicina,Química,Fisioterapia,Engenharia de Produção,Fonoaudiologia,Ciência da Computação
-3505500,BARRETOS,RIBEIRÃO PRETO,15391,1.0,15391.0,0.0,saúde,exatas,Educação Física,Matemática,Enfermagem,Física,Medicina,Química,Fisioterapia,Engenharia de Produção,Fonoaudiologia,Ciência da Computação
-3511102,CATANDUVA,SÃO JOSÉ DO RIO PRETO,14187,1.0,14187.0,0.0,saúde,humanas,Educação Física,Matemática,Enfermagem,Física,Medicina,Química,Fisioterapia,Engenharia de Produção,Fonoaudiologia,Ciência da Computação
-3510500,CARAGUATATUBA,VALE DO PARAÍBA PAULISTA,17899,0.9866999999999999,17660.9,0.0,humanas,saúde,Educação Física,Matemática,Enfermagem,Física,Medicina,Química,Fisioterapia,Engenharia de Produção,Fonoaudiologia,Ciência da Computação
+cod_ibge,nm_mun,nm_meso,populacao,permanencia_media,ippa,ic,categoria1,categoria2
+3529302,MATÃO,ARARAQUARA,10252,0.9762333333333334,10008.3,0.0,exatas,saúde
+3506508,BIRIGUI,ARAÇATUBA,15894,0.9919666666666669,15766.3,0.0,humanas,saúde
+3546405,SANTA CRUZ DO RIO PARDO,ASSIS,6394,1.0,6394.0,0.0,exatas,humanas
+3504503,AVARÉ,BAURU,12557,0.9898999999999999,12430.2,0.0,humanas,saúde
+3519071,HORTOLÂNDIA,CAMPINAS,36733,0.9763999999999999,35866.1,0.0,humanas,saúde
+3554003,TATUÍ,ITAPETININGA,17769,0.9874666666666667,17546.3,0.0,saúde,humanas
+3522109,ITANHAÉM,LITORAL SUL PAULISTA,15740,0.9703,15272.5,0.0,humanas,saúde
+3523909,ITU,MACRO METROPOLITANA PAULISTA,23695,0.9816666666666666,23260.6,0.0,saúde,humanas
+3516705,GARÇA,MARÍLIA,5705,0.9939333333333332,5670.4,0.0,saúde,exatas
+3530607,MOGI DAS CRUZES,METROPOLITANA DE SÃO PAULO,66235,0.9944666666666667,65868.5,0.0,saúde,exatas
+3510401,CAPIVARI,PIRACICABA,7883,0.9597,7565.3,0.0,humanas,saúde
+3541307,PRESIDENTE EPITÁCIO,PRESIDENTE PRUDENTE,6106,0.8858000000000001,5408.7,0.0,humanas,saúde
+3505500,BARRETOS,RIBEIRÃO PRETO,15391,1.0,15391.0,0.0,saúde,exatas
+3511102,CATANDUVA,SÃO JOSÉ DO RIO PRETO,14187,1.0,14187.0,0.0,saúde,humanas
+3510500,CARAGUATATUBA,VALE DO PARAÍBA PAULISTA,17899,0.9866999999999999,17660.9,0.0,humanas,saúde
